@@ -31,7 +31,6 @@ def writeLink(playlistFile, ulr):
             continue
         decoded_line = line.decode("utf-8")
         playlistFile.write(decoded_line)
-        print(decoded_line)
 
 def createFile(filename="playlist.m3u"):
     online_channels = []
