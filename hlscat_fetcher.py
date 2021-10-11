@@ -36,7 +36,10 @@ def createFile(filename="playlist.m3u"):
     online_channels = []
     print("Fetching online channels")
     for i in range(1, 27):
-        online_channels += onlineChannelsLinks('https://iptvcat.com/brazil_-_-_-_-_-_-_/'+str(i))
+        try:
+            online_channels += onlineChannelsLinks('https://iptvcat.com/brazil_-_-_-_-_-_-_/'+str(i))
+        except:
+            print("Something went wrong skipping...")
         print(str(round((i/26)*100,2))+"%")
 
     online_file = open("online_channels", "w")
