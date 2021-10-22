@@ -38,8 +38,8 @@ def createFile(filename="playlist.m3u"):
     for i in range(1, 27):
         try:
             online_channels += onlineChannelsLinks('https://iptvcat.com/brazil_-_-_-_-_-_-_/'+str(i))
-        except:
-            print("Something went wrong skipping...")
+        except Exception as ex:
+            print("Something went wrong skipping...\nReason:"+ex+"\n\n")
         print(str(round((i/26)*100,2))+"%")
 
     online_file = open("online_channels", "w")
