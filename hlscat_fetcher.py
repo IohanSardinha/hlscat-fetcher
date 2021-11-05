@@ -3,6 +3,7 @@ import requests
 import urllib
 from requests.api import head
 from bs4 import BeautifulSoup
+import re
 
 def onlineChannelsLinks(vgm_url):
 
@@ -30,7 +31,8 @@ def writeLink(playlistFile, ulr):
             first = False
             continue
         decoded_line = line.decode("utf-8")
-        playlistFile.write(decoded_line)
+        ungrouped_line = re.sub('group-title="(.*?)"', 'group-title="All"', decoded_line)
+        playlistFile.write(ungrouped_line)
 
 def createFile(filename="playlist.m3u"):
     online_channels = []
