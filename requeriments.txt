@@ -1,5 +1,0 @@
-os
-requests
-urllib
-bs4
-re
