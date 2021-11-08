@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import re
 from github import Github
 from credentials import accessToken
+import sys
 
 
 def onlineChannelsLinks(vgm_url):
@@ -61,13 +62,13 @@ def createFile(filename="playlist.m3u"):
     file.close()
     print("Done")
 
-def upload_file(filename="playlist.m3u", repo_name="hlscat-fetcher", commit_message="updates playlist", branch_name="master"):
-    g = Github(accessToken)
+def upload_file(token=None, filename="playlist.m3u", repo_name="hlscat-fetcher", commit_message="updates playlist", branch_name="master"):
+    g = Github(accessToken if token == None else token)
     repo = g.get_user().get_repo(repo_name)
     contents = repo.get_contents(filename)
     content = open(filename).read()
     repo.update_file(contents.path, commit_message, content, contents.sha, branch=branch_name)
 
 if __name__ == "__main__":
-    createFile()
-    upload_file()
+    #createFile()
+    upload_file(token = (sys.argv[1] if len(sys.argv) > 1 else None))
