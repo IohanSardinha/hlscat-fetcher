@@ -63,10 +63,10 @@ def createFile(filename="playlist.m3u"):
 
 def upload_file(filename="playlist.m3u", repo_name="hlscat-fetcher", commit_message="updates playlist", branch_name="master"):
     g = Github(accessToken)
-    repo = g.get_repo(repo_name)
+    repo = g.get_user().get_repo(repo_name)
     contents = repo.get_contents(filename)
     content = open(filename).read()
-    repo.update_file(contents.path, commit_message, content, branch=branch_name)
+    repo.update_file(contents.path, commit_message, content, contents.sha, branch=branch_name)
 
 if __name__ == "__main__":
     createFile()
