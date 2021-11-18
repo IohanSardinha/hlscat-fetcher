@@ -37,15 +37,28 @@ def writeLink(playlistFile, ulr):
         ungrouped_line = re.sub('group-title="(.*?)"', 'group-title="All"', decoded_line)
         playlistFile.write(ungrouped_line)
 
-def createFile(filename="playlist.m3u"):
+def get_page_count(vgm_url):
+    html_text = requests.get(vgm_url).text
+    ul = BeautifulSoup(html_text, 'html.parser').find("ul", class_="pagination pagination-separated pagination-xs")
+    href = ul.findAll('li')[-1].find('a')["href"]
+    return int(href.split("/")[-1])
+    
+
+def createFile(filename="playlist.m3u", url='https://iptvcat.com/brazil_-_-_-_-_-_-_/'):
     online_channels = []
+    
+    page_count = get_page_count(url)
+
+    print("Found "+str(page_count)+" pages")
+
     print("Fetching online channels")
-    for i in range(1, 27):
+
+    for i in range(1, page_count+1):
         try:
-            online_channels += onlineChannelsLinks('https://iptvcat.com/brazil_-_-_-_-_-_-_/'+str(i))
+            online_channels += onlineChannelsLinks(url+str(i))
         except Exception as ex:
-            print("Something went wrong skipping...\nReason:"+ex+"\n\n")
-        print(str(round((i/26)*100,2))+"%")
+            print("Something went wrong skipping...\nReason:"+str(ex)+"\n\n")
+        print(str(round((i/page_count)*100,2))+"%")
 
     online_file = open("online_channels", "w")
     for channel in online_channels:
