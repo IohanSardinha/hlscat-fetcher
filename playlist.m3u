@@ -6,9 +6,9 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/94fm.png" group-title="All",94 Atividade FM
 https://v8.ciclano.io:1443/anderson/_definst_/anderson/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A FAZENDA CAM 1
-http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/22546?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A FAZENDA CAM 1
 http://multmix.site:80/talles/talles/296814?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A FAZENDA CAM 1
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/22546?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A FAZENDA CAM 2
 http://multmix.site:80/talles/talles/296815?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A FAZENDA CAM 3
@@ -25,14 +25,6 @@ http://multmix.site:80/talles/talles/296820?checkedby:iptvcat.com
 http://multmix.site:80/talles/talles/296821?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A FAZENDA PRINCIPAL
 http://multmix.site:80/talles/talles/296822?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A Fazenda 13 Cam 04
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/170987?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A Fazenda 13 Cam 07
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/170990?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A Fazenda 13 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/170992?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A&E FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79966?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A&E FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296327?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A&E HD
@@ -40,43 +32,37 @@ http://multmix.site:80/talles/talles/296508?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A&E SD
 http://multmix.site:80/talles/talles/296509?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO BRASIL
+http://168.205.87.198:8555/live/antony/1234/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO BRASIL
 http://168.205.87.198:8555/live/1111/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO CANAL
+http://168.205.87.198:8555/live/1111/123456/10.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO CANAL
 http://168.205.87.198:8555/live/antony/1234/10.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
-http://168.205.87.198:8555/live/antony/1234/148.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
 http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL Sport
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22792?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC Fullhd (h.265)
 http://multmix.site:80/talles/talles/296328?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC HD+
 http://multmix.site:80/talles/talles/296510?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC SD
 http://multmix.site:80/talles/talles/296511?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81013?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMERICA LATINO
 http://168.205.87.198:8555/live/antony/1234/16.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMERICA LATINO
 http://168.205.87.198:8555/live/1111/123456/16.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ANIMAL PLANET
+http://168.205.87.198:8555/live/antony/1234/18.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ARTE 1 FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296330?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ARTE 1 HD
 http://multmix.site:80/talles/talles/296512?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296331?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46504?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3395?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN HD+
 http://multmix.site:80/talles/talles/296513?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN SD
 http://multmix.site:80/talles/talles/296514?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81012?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="All",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="All",Agro Brasil TV
@@ -85,32 +71,12 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:ipt
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Animal Planet FullHD
 http://multmix.site:80/talles/talles/296329?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Animal Planet HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3373?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Animal Planet HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46502?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Animal Planet HD+
 http://multmix.site:80/talles/talles/296478?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Animal Planet SD+
 http://multmix.site:80/talles/talles/296479?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Arte 1 BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3367?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Arte 1 FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81014?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Arte 1 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79969?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Arte 1 HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46503?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BABY TV HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79971?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND
-http://168.205.87.198:8555/live/antony/1234/19.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/62308?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND NEWS FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79973?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SPORTS FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/62307?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/19.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SPORTS SD
 http://multmix.site:80/talles/talles/296250?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BIS HD
@@ -121,56 +87,30 @@ http://168.205.87.198:8555/live/1111/123456/21.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/21.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG
 http://168.205.87.198:8555/live/antony/1234/22.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79975?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG SD
 http://multmix.site:80/talles/talles/296633?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRA
 http://168.205.87.198:8555/live/1111/123456/24.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRA
+http://168.205.87.198:8555/live/antony/1234/24.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BabyTV HD
 http://multmix.site:80/talles/talles/296630?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BabyTV SD
 http://multmix.site:80/talles/talles/296631?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="All",Babyfirst
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band Campinas HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81025?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81023?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46505?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81022?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band News HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3391?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band News HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46506?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band News HD+
 http://multmix.site:80/talles/talles/296670?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band News SD
 http://multmix.site:80/talles/talles/296671?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band News SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81020?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band SP HD
 http://multmix.site:80/talles/talles/296398?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band SP SD
 http://multmix.site:80/talles/talles/296399?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band Sport HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3392?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band Sports FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81021?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band Sports HD
 http://multmix.site:80/talles/talles/296249?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band Sports HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46507?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="All",Bons Tempos TV - WebTV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Boomerang HD
 http://multmix.site:80/talles/talles/296632?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Boomerang HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46508?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Boomerang SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81028?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_101
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_101
@@ -231,8 +171,6 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuzEa63M07BZNTXGvY85k-RK
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnnQ9boXmS2m_wUHYxpqfJTiniRSj5fbZNjrJoZ9ww9VhDOMAK&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANÇÃO NOVA
 http://168.205.87.198:8555/live/antony/1234/25.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANÇÃO NOVA
-http://168.205.87.198:8555/live/1111/123456/25.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CARTOON NETWORK
 http://168.205.87.198:8555/live/antony/1234/26.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="All",CBN São Paulo
@@ -245,14 +183,12 @@ http://168.205.87.198:8555/live/1111/123456/159.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/159.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CINE BRASIL
 http://168.205.87.198:8555/live/antony/1234/145.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CINEMAX HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79978?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
+http://168.205.87.198:8555/live/antony/1234/27.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
 http://168.205.87.198:8555/live/1111/123456/27.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLIMA
 http://168.205.87.198:8555/live/1111/123456/158.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLIMA
-http://168.205.87.198:8555/live/antony/1234/158.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
 http://168.205.87.198:8555/live/1111/123456/28.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
@@ -267,136 +203,58 @@ http://multmix.site:80/talles/talles/296678?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/150.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
 http://168.205.87.198:8555/live/1111/123456/150.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="All",CNT
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="All",COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
 http://168.205.87.198:8555/live/1111/123456/30.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULTURA
 http://168.205.87.198:8555/live/1111/123456/32.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULTURA
-http://168.205.87.198:8555/live/antony/1234/32.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULTURA HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79981?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Brasil FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81034?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Brasil HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46509?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Brasil SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81033?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canção Nova  HD
 http://multmix.site:80/talles/talles/296659?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canção Nova BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/91304?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="All",Capital TV
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cartoon HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46510?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cartoon Network HD
 http://multmix.site:80/talles/talles/296634?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CartoonNetwork  SD
 http://multmix.site:80/talles/talles/296635?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Catve TV
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22803?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cinemax HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46511?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cinemax HD+
 http://multmix.site:80/talles/talles/296515?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cinemax SD
 http://multmix.site:80/talles/talles/296516?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cinemax SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81037?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cnn Internacional HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46512?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Combate FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27800?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Combate HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81040?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Combate HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46513?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Combate HD+
 http://multmix.site:80/talles/talles/296252?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Combate SD
 http://multmix.site:80/talles/talles/296253?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Combate SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81039?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Comedy Central FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296336?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Comedy Central HD
 http://multmix.site:80/talles/talles/296600?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Comedy Central HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81036?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Comedy Central HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46514?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Comedy Central SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81035?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Conmebol 2 FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/169957?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cultura HD
 http://multmix.site:80/talles/talles/296402?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cultura HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46515?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cultura SD
 http://multmix.site:80/talles/talles/296403?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DAZN 3 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/171190?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DAZN 4 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/171191?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DAZN 5 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/171192?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DAZN 6 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/171193?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/10987658/5875?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY HOME & HEALTH FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79985?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY HOME HELTH
 http://168.205.87.198:8555/live/antony/1234/35.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY ID
 http://168.205.87.198:8555/live/antony/1234/36.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS
 http://168.205.87.198:8555/live/antony/1234/37.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY SCIENCE HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79987?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY TLC HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79989?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY WORLD HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79990?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY TLC
+http://168.205.87.198:8555/live/antony/1234/40.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL
 http://168.205.87.198:8555/live/antony/1234/45.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL SD
 http://multmix.site:80/talles/talles/296638?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY JR
 http://168.205.87.198:8555/live/antony/1234/46.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY Junior BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79992?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD
-http://168.205.87.198:8555/live/antony/1234/47.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD HD
 http://multmix.site:80/talles/talles/296641?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79993?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81057?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel HD
 http://multmix.site:80/talles/talles/296480?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel SD
 http://multmix.site:80/talles/talles/296481?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81056?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Civilization HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46516?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery H H HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46517?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery H&H FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/61408?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery H&H HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81054?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46518?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Home & Health HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/94608?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Home & Health HD
 http://multmix.site:80/talles/talles/296482?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Home & Health SD
@@ -404,29 +262,15 @@ http://multmix.site:80/talles/talles/296483?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Home&Health FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296338?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery ID HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/94610?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery ID HD
 http://multmix.site:80/talles/talles/296484?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery ID SD
 http://multmix.site:80/talles/talles/296485?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Kids FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/94612?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Kids HD
 http://multmix.site:80/talles/talles/296636?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Kids HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46519?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Kids SD
 http://multmix.site:80/talles/talles/296486?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Kids SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81043?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Science FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/94615?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Science FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81055?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Science HD
 http://multmix.site:80/talles/talles/296487?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Science HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46520?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Science SD
 http://multmix.site:80/talles/talles/296488?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Theater FullHD¹(H.265)
@@ -435,84 +279,42 @@ http://multmix.site:80/talles/talles/296340?checkedby:iptvcat.com
 http://multmix.site:80/talles/talles/296489?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Theater SD
 http://multmix.site:80/talles/talles/296490?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Theather FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/94618?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Theather HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46521?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Turbo FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/94621?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Turbo HD
 http://multmix.site:80/talles/talles/296491?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Turbo HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46522?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Turbo SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81050?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Turbo SD+
 http://multmix.site:80/talles/talles/296492?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery World FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/94624?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery World FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296342?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery World HD
 http://multmix.site:80/talles/talles/296493?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery World HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46523?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery World SD
 http://multmix.site:80/talles/talles/296494?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery World SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81049?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Disney Channel HD
 http://multmix.site:80/talles/talles/296637?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Disney Channel HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46524?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Disney JR FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81045?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Disney Jr SD
 http://multmix.site:80/talles/talles/296640?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Disney Junior HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46525?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Disney XD SD
 http://multmix.site:80/talles/talles/296642?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Disney XD SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81047?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Disney Xd HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46526?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DisneyJunior HD
 http://multmix.site:80/talles/talles/296643?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",E! HD
 http://multmix.site:80/talles/talles/296604?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",E! HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46527?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",E! HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79994?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27802?checkedby:iptvcat.com
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13353?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN 2
 http://168.205.87.198:8555/live/antony/1234/49.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN 2 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27803?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN 2 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79997?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13356?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN BRASIL
 http://168.205.87.198:8555/live/antony/1234/50.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN Brasil FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27804?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN Brasil HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27805?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN EXTRA
-http://168.205.87.198:8555/live/antony/1234/51.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN Brasil
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13359?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN EXTRA HD+
 http://multmix.site:80/talles/talles/296267?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN EXTRA SD
 http://multmix.site:80/talles/talles/296268?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN Extra FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27806?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27808?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN HD
 http://multmix.site:80/talles/talles/296270?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN INT
-http://168.205.87.198:8555/live/antony/1234/60.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN SD
 http://multmix.site:80/talles/talles/296271?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",EVANGELIZAR HD
@@ -521,156 +323,90 @@ http://solutionplay.xyz:8080/techruthes/10987658/5921?checkedby:iptvcat.com
 http://multmix.site:80/talles/talles/296261?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Espn 2  SD
 http://multmix.site:80/talles/talles/296262?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Espn 2 HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/82884?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Espn Br HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46529?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Espn Brasil HD
 http://multmix.site:80/talles/talles/296265?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Espn Brasil SD
 http://multmix.site:80/talles/talles/296266?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Espn HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46528?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FASHION TV
-http://168.205.87.198:8555/live/antony/1234/61.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FASHION TV
 http://168.205.87.198:8555/live/1111/123456/61.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="All",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD - LEG
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13128?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13361?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13252?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/15044?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13349?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13104?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13363?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13087?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13346?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13352?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13355?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13098?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FHD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13101?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV
 http://168.205.87.198:8555/live/antony/1234/62.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV
 http://168.205.87.198:8555/live/1111/123456/62.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV HD
 http://multmix.site:80/talles/talles/296272?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79998?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV SD
 http://multmix.site:80/talles/talles/296273?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOOD NETWORK HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80003?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27823?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27825?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80004?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX Life SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81072?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX PREMIUM 2 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80007?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX SPORTS 2 SD
 http://multmix.site:80/talles/talles/296276?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX SPORTS SD
 http://multmix.site:80/talles/talles/296279?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX Sports 2 BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/44285?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX Sports SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81079?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FUTURA
 http://168.205.87.198:8555/live/antony/1234/67.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FUTURA
 http://168.205.87.198:8555/live/1111/123456/67.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FUTURA
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22815?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27835?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296347?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27836?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX HD
 http://multmix.site:80/talles/talles/296519?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX SD+
 http://multmix.site:80/talles/talles/296520?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fate 24 Horas
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27817?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fish TV BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3379?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fish TV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13251?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="All",FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Food Network  SD
 http://multmix.site:80/talles/talles/296607?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Food Network FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81067?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Food Network HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27822?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Food Network HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46534?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Food Network SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81066?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27824?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46535?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Life
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27826?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Life FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27827?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Life HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46536?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox News FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103938?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Premium 1 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27829?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Premium 2 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27830?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Premium HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46538?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81074?checkedby:iptvcat.com
+http://multmix.site:80/talles/talles/296608?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Sports
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27831?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Sports 2
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27832?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Sports 2 HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46539?checkedby:iptvcat.com
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13347?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Sports 2 HD+
 http://multmix.site:80/talles/talles/296275?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Sports HD
 http://multmix.site:80/talles/talles/296278?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Sports HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46540?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Futura HD
 http://multmix.site:80/talles/talles/296404?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Futura SD¹
 http://multmix.site:80/talles/talles/296405?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fx HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46542?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fx HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81071?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fx SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81070?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
-http://168.205.87.198:8555/live/antony/1234/69.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
 http://168.205.87.198:8555/live/1111/123456/69.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO AMAZONAS HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80012?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO BRASILIA  BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80014?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO EPTV RIBEIRÃO PRETO BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80068?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO ES SD+
 http://multmix.site:80/talles/talles/296441?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO INTERNACIONAL HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80019?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MG HD
 http://multmix.site:80/talles/talles/296447?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MG SD
 http://multmix.site:80/talles/talles/296448?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS
-http://168.205.87.198:8555/live/antony/1234/70.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS
 http://168.205.87.198:8555/live/1111/123456/70.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO NEWS HD
 http://linea.cc:8000/test123/test123/24973.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO RBS PORTO ALEGRE BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80022?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO RIO GRANDE DO NORTE HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80024?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO RJ FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80025?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO RJ HD
 http://linea.cc:8000/test123/test123/24975.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO RJ HD+
@@ -679,184 +415,74 @@ http://multmix.site:80/talles/talles/296455?checkedby:iptvcat.com
 http://multmix.site:80/talles/talles/296456?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO SP HD+
 http://multmix.site:80/talles/talles/296460?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO TV TRIBUNA SANTOS BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80029?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO TV VERDES MARES FORTALEZA HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80031?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOOB FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80032?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GNT HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80033?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GNT SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81085?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo 4K UHD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/51187?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo Amazonica Manaus HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103888?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo Amazônica HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27838?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo Bahia
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27839?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo Brasília HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27842?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo DF HD+
 http://multmix.site:80/talles/talles/296436?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo EPTV Campinas HD
 http://multmix.site:80/talles/talles/296437?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo EPTV Campinas SD
 http://multmix.site:80/talles/talles/296438?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo EPTV Ribeirão Preto
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27845?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo EPTV São Carlos
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27846?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo ES HD¹
 http://multmix.site:80/talles/talles/296440?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo Goiânia TV Anhanguera HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27850?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo NSC TV Chapeco FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103940?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo NSC TV FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27863?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo News BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/14335?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo News HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46543?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo News SD
 http://multmix.site:80/talles/talles/296680?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo Nordeste BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/14334?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo Pt HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46545?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo RBS TV HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27865?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo RJ
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27866?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo RPC Foz do Iguaçu FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103944?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo RPC Maringa FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103945?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo SP BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/14330?checkedby:iptvcat.com
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12962?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo SP FullHD (H265)
 http://multmix.site:80/talles/talles/296354?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo SP HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27872?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo SP HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/14329?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo SP HD ²
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27873?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo SP SD+
 http://multmix.site:80/talles/talles/296461?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo Sergipe
 http://multmix.site:80/talles/talles/296459?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Asa Branca FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103891?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Bahia HD+
 http://multmix.site:80/talles/talles/296463?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Bahia SD+
 http://multmix.site:80/talles/talles/296464?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Cabo Branco FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103884?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46546?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Morena FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103947?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Morena MS FullHD (h.265)
 http://multmix.site:80/talles/talles/296355?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV TEM SJRP
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27876?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Tem Bauru SD
 http://multmix.site:80/talles/talles/296470?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Tem Rio Preto HD
 http://multmix.site:80/talles/talles/296471?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Tem Sorocaba HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27877?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Tibuna Santos HD+
 http://multmix.site:80/talles/talles/296473?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Tribuna Santos SD+
 http://multmix.site:80/talles/talles/296474?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Verdes Mares Fortaleza HD+
 http://multmix.site:80/talles/talles/296476?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloob
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27878?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloob FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103948?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloob HD
 http://multmix.site:80/talles/talles/296644?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloob HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27879?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloob SD
 http://multmix.site:80/talles/talles/296645?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloobinho HD
 http://multmix.site:80/talles/talles/296646?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloobinho HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81084?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloobinho SD
 http://multmix.site:80/talles/talles/296647?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gnt HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46547?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gospel Movies Television BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81205?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27880?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27881?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 HD
-http://solutionplay.xyz:8080/techruthes/10987658/5939?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27882?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 HD
 http://multmix.site:80/talles/talles/296495?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46548?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81092?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 HD
+http://solutionplay.xyz:8080/techruthes/10987658/5939?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 SD
 http://multmix.site:80/talles/talles/296496?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2 HD
 http://multmix.site:80/talles/talles/296569?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2 HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46553?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2 SD
 http://multmix.site:80/talles/talles/296570?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO EXTREME HD
 http://multmix.site:80/talles/talles/296571?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Extreme SD
 http://multmix.site:80/talles/talles/296572?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO FAMILY HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80037?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO FAMILY SD
 http://multmix.site:80/talles/talles/296574?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Family
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27884?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Family FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27885?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Family FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296360?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Family HD
 http://multmix.site:80/talles/talles/296573?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Family HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27886?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Family HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46549?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO HD
 http://multmix.site:80/talles/talles/296575?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80035?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46550?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Max 5
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/170982?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Mundi
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27889?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Mundi HD
 http://multmix.site:80/talles/talles/296576?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Mundi SD
 http://multmix.site:80/talles/talles/296577?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO PLUS FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80038?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO PLUS HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80039?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO POP  HD
 http://multmix.site:80/talles/talles/296580?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO POP FullHD¹(H.265)
@@ -865,92 +491,78 @@ http://multmix.site:80/talles/talles/296364?checkedby:iptvcat.com
 http://multmix.site:80/talles/talles/296581?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Plus FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296363?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Plus HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46551?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Plus HD+
 http://multmix.site:80/talles/talles/296578?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Plus SD
 http://multmix.site:80/talles/talles/296579?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Pop
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27891?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Pop HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27892?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO SD
 http://multmix.site:80/talles/talles/296582?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO SIGNATURE  HD
 http://multmix.site:80/talles/talles/296583?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO SIGNATURE FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80040?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27893?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27894?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46552?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature SD
 http://multmix.site:80/talles/talles/296584?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81093?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Xtreme
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27895?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Xtreme HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27896?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO+ Plus FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27897?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO+ Plus HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27898?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO2
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27899?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13043?checkedby:iptvcat.com
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13362?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13039?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13112?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12967?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13298?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13277?checkedby:iptvcat.com
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13176?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13080?checkedby:iptvcat.com
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13097?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13226?checkedby:iptvcat.com
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13100?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13103?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13360?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13191?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13092?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13351?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13317?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13348?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13357?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13166?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13095?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13308?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13280?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/12963?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13140?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
-http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13069?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HGTV HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27902?checkedby:iptvcat.com
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13275?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HD
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13257?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HGTV HD
 http://multmix.site:80/talles/talles/296497?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HGTV SD
 http://multmix.site:80/talles/talles/296498?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HITTS
+http://168.205.87.198:8555/live/antony/1234/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HITTS
 http://168.205.87.198:8555/live/1111/123456/72.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",History Channel
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27903?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",History Channel FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27904?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",History Channel HD
 http://multmix.site:80/talles/talles/296499?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",History HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46554?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",History channel SD
 http://multmix.site:80/talles/talles/296500?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Hora de Aventura 24 Horas
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27906?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ID Discovery HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81101?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ID Discovery SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81100?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="All",Itú TV,ITV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="All",IURD TV
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Investigação Discovery FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27910?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",JP NEWS
 http://168.205.87.198:8555/live/antony/1234/161.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",JP NEWS
@@ -963,130 +575,54 @@ http://168.205.87.198:8555/live/1111/123456/143.ts?checkedby:iptvcat.com
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="All",Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LIFETIME HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80043?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LOADING TV
 http://168.205.87.198:8555/live/antony/1234/142.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LOADING TV
 http://168.205.87.198:8555/live/1111/123456/142.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Lifetime FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81103?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Lifetime HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46556?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Lifetime SD
 http://multmix.site:80/talles/talles/296613?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MASTER TV
+http://168.205.87.198:8555/live/antony/1234/74.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MASTER TV
 http://168.205.87.198:8555/live/1111/123456/74.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
-http://168.205.87.198:8555/live/1111/123456/75.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
 http://168.205.87.198:8555/live/antony/1234/75.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
+http://168.205.87.198:8555/live/1111/123456/75.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGAPIX HD
 http://multmix.site:80/talles/talles/296521?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGAPIX HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80046?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27916?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3362?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV Clipes
 http://multmix.site:80/talles/talles/296616?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV HD
 http://multmix.site:80/talles/talles/296617?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27917?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80047?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV SD
 http://multmix.site:80/talles/talles/296618?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MUSIC BOX
 http://168.205.87.198:8555/live/antony/1234/77.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Max Prime HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46559?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Max Up HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46560?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MegaPix BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3363?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MegaPix TV BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3384?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Megapix
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27912?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Megapix 4K BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81112?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Megapix FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296369?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Megapix HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27913?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Megapix HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46561?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Megapix SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81111?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Megapix SD+
 http://multmix.site:80/talles/talles/296522?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Mtv HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46562?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Mtv Live HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46563?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Multishow FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296371?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Multishow HD
 http://multmix.site:80/talles/talles/296619?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Multishow HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46564?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Multishow SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81107?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NAT GEO KIDS HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80050?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NAT GEO KIDS SD
 http://multmix.site:80/talles/talles/296649?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NATIONAL GEOGRAPHIC HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80052?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NICK JR SD¹
 http://multmix.site:80/talles/talles/296651?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NICKELODEON HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80054?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NOVO TEMPO
-http://168.205.87.198:8555/live/antony/1234/149.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NOVO TEMPO
 http://168.205.87.198:8555/live/1111/123456/149.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nat Geo HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46565?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NOVO TEMPO
+http://168.205.87.198:8555/live/antony/1234/149.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nat Geo Kids HD
 http://multmix.site:80/talles/talles/296501?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nat Geo Kids HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46566?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nat Geo WILD SD
 http://multmix.site:80/talles/talles/296502?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nat Geo Wild HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46567?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NatGeo HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27921?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NatGeo Kids SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81113?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NatGeo Wild HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27923?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NatGeo Wild HD+
 http://multmix.site:80/talles/talles/296505?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NatGeoKids HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27924?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",National Geographic
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27925?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",National Geographic HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27926?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nick HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46568?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nick JR FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81116?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nick Jr HD
 http://multmix.site:80/talles/talles/296650?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nick Jr SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81115?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nickelodeon
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27929?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nickelodeon FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27930?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nickelodeon HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27931?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nickelodeon HD
 http://multmix.site:80/talles/talles/296652?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nickelodeon SD
@@ -1099,96 +635,46 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8?checkedby:iptvcat
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="All",O Reino Infantil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13085?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF HD
 http://multmix.site:80/talles/talles/296281?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF SD
 http://multmix.site:80/talles/talles/296282?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="All",Ocko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Off HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46570?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PAI ETERNO
 http://168.205.87.198:8555/live/antony/1234/144.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PAI ETERNO
 http://168.205.87.198:8555/live/1111/123456/144.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PARAMOUNT CHANNEL HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80056?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",POLISHOP
-http://168.205.87.198:8555/live/antony/1234/153.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",POLISHOP
 http://168.205.87.198:8555/live/1111/123456/153.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PORTAL
 http://168.205.87.198:8555/live/antony/1234/82.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 1 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75478?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 2 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75479?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 3 SD
 http://multmix.site:80/talles/talles/296289?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 4 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75481?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 5 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/62315?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 5 HD
 http://multmix.site:80/talles/talles/296294?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 5 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75482?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 7 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/62317?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 7 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/75484?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE CLUBES HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/62318?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
-http://168.205.87.198:8555/live/antony/1234/83.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/83.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Paramount Channel HD+
 http://multmix.site:80/talles/talles/296523?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Paramount Channel SD
 http://multmix.site:80/talles/talles/296524?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Paramount FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81125?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Paramount HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46571?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Paramount SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81124?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="All",Pluto TV Filmes Nacionais
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premier 1 FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81127?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premier 1 SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81126?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premier 2 FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81128?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premier 4 FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81130?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premier 4 SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81131?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premier 5 FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81132?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premier 7 SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81134?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 1 SD
 http://multmix.site:80/talles/talles/296283?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 2 HD
 http://multmix.site:80/talles/talles/296285?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 2 HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46573?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 2 SD
 http://multmix.site:80/talles/talles/296286?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 3 HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46574?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 4 HD
 http://multmix.site:80/talles/talles/296291?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 4 HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46575?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 4 SD
 http://multmix.site:80/talles/talles/296292?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 5 HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46576?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 5 SD
 http://multmix.site:80/talles/talles/296295?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 6 FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81133?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 6 HD
 http://multmix.site:80/talles/talles/296297?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 6 SD
@@ -1197,8 +683,6 @@ http://multmix.site:80/talles/talles/296298?checkedby:iptvcat.com
 http://multmix.site:80/talles/talles/296300?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere Clubes HD
 http://multmix.site:80/talles/talles/296302?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere Clubes HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46579?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere Clubes SD
 http://multmix.site:80/talles/talles/296303?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
@@ -1207,124 +691,70 @@ http://168.205.87.198:8555/live/1111/123456/84.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/84.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="All",RCI,TV Pai Eterno (Backup)
 http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD CAMPINAS HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80060?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80058?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MG HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80062?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
-http://168.205.87.198:8555/live/antony/1234/96.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
 http://168.205.87.198:8555/live/1111/123456/96.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
+http://168.205.87.198:8555/live/antony/1234/97.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
 http://168.205.87.198:8555/live/1111/123456/97.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS FHD
 http://solutionplay.xyz:8080/techruthes/10987658/6104?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80063?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NORDESTE HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80064?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE BRAZIL
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22827?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
 http://168.205.87.198:8555/live/1111/123456/151.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
-http://168.205.87.198:8555/live/antony/1234/98.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
+http://168.205.87.198:8555/live/antony/1234/151.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
 http://168.205.87.198:8555/live/1111/123456/98.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
+http://168.205.87.198:8555/live/antony/1234/98.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE METROPOLE
 http://168.205.87.198:8555/live/1111/123456/99.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE METROPOLE
 http://168.205.87.198:8555/live/antony/1234/99.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE MINAS
 http://168.205.87.198:8555/live/1111/123456/101.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE NEW
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22830?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV
 http://168.205.87.198:8555/live/1111/123456/102.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV FHD
-http://solutionplay.xyz:8080/techruthes/10987658/6331?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV
+http://168.205.87.198:8555/live/antony/1234/102.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE VIDA
 http://168.205.87.198:8555/live/antony/1234/103.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE VIDA HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80067?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RS21
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22839?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RSC
-http://168.205.87.198:8555/live/antony/1234/147.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Ra Tim Bum HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46581?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE VIDA
+http://168.205.87.198:8555/live/1111/123456/103.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/radioU.png" group-title="All",RadioU
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record Ba HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81138?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record Campinas HD
 http://multmix.site:80/talles/talles/296406?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record Campinas SD
 http://multmix.site:80/talles/talles/296407?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81145?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46582?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record MG HD
 http://multmix.site:80/talles/talles/296412?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record Manaus HD+
 http://multmix.site:80/talles/talles/296411?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record News
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27934?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record News HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27936?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record News HD
 http://multmix.site:80/talles/talles/296681?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record News HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46583?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record News SD
 http://multmix.site:80/talles/talles/296682?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record Nordeste HD+
 http://multmix.site:80/talles/talles/296413?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record RJ FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27937?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record RJ HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27938?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record RJ HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81136?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record RJ HD¹
 http://multmix.site:80/talles/talles/296415?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record RS SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81141?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record RS SD+
 http://multmix.site:80/talles/talles/296418?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record SP HD
 http://multmix.site:80/talles/talles/296419?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record SP SD+
 http://multmix.site:80/talles/talles/296420?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RedBull TV HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27941?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Rede Brasil BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3372?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="All",Rede Família
 https://a.zoeweb.tv/familia/smil:familia.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Rede Gospel BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3371?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="All",Rede Mão Amiga
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Rede New BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46585?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="All",Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Rede Século 21
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22832?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Rede TV BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3369?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="All",Rede TV Sul - WebTV
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Rede Tv HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46586?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="All",Rede UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Rede Vida BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46587?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Rede Vida HD
 http://multmix.site:80/talles/talles/296663?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Rede Vida SD
@@ -1338,29 +768,19 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8?checkedby:i
 #EXTINF:0 tvg-country="BR" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="All",Rádio Jornal
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="All",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="All",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="All",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="All",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="All",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="All",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="All",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="All",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
 http://168.205.87.198:8555/live/1111/123456/104.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81153?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80069?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT Interior SP BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81150?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT Interior TV
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22843?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT SP HD
 http://multmix.site:80/talles/talles/296425?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT SP SD
@@ -1370,93 +790,43 @@ http://168.205.87.198:8555/live/antony/1234/105.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
 http://168.205.87.198:8555/live/1111/123456/105.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
+http://168.205.87.198:8555/live/antony/1234/106.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
 http://168.205.87.198:8555/live/1111/123456/106.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SESC TV
+http://168.205.87.198:8555/live/antony/1234/107.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SESC TV
 http://168.205.87.198:8555/live/1111/123456/107.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SONY FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80071?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPACE BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80072?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV 1 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80073?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV 2 FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80074?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV 3 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80075?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV HD
 http://multmix.site:80/talles/talles/296313?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STAR+ 2 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/171196?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STAR+ 5 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/171199?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STUDIO UNIVERSAL FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80076?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SYFY HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80077?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sbt HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46589?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Shoptime BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46590?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="All",Santa Cecilia TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/Sky-News.png" group-title="All",Sky News
 http://skynews-go-hls.ak-cdn.skydvn.com/skynews/1404/latest.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sony BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46593?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sony HD
 http://multmix.site:80/talles/talles/296525?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sony HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81158?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sony HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46592?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sony SD
 http://multmix.site:80/talles/talles/296526?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sony SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81157?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Space HD
 http://multmix.site:80/talles/talles/296527?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Space HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46594?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Space HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81155?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Space SD
 http://multmix.site:80/talles/talles/296528?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13096?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 2
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27944?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 2 BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3381?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 2 FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27945?checkedby:iptvcat.com
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13099?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 2 HD
 http://multmix.site:80/talles/talles/296307?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 2 SD
 http://multmix.site:80/talles/talles/296308?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 3
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27947?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 3 BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3380?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 3 FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27948?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 3 HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27949?checkedby:iptvcat.com
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13102?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 3 HD+
 http://multmix.site:80/talles/talles/296310?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV 3 SD
 http://multmix.site:80/talles/talles/296311?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27950?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27951?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV SD
 http://multmix.site:80/talles/talles/296314?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sportv 1 FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sportv 2 HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46596?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sportv 2 HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81161?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sportv 3 FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81160?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sportv HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46597?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Star Channel HD
 http://multmix.site:80/talles/talles/296529?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Star Channel SD
@@ -1469,112 +839,52 @@ http://multmix.site:80/talles/talles/296532?checkedby:iptvcat.com
 http://multmix.site:80/talles/talles/296534?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Star hits 2 HD
 http://multmix.site:80/talles/talles/296533?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Studio Universal HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46598?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Studio Universal HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3370?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Studio Universal HD+
 http://multmix.site:80/talles/talles/296537?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Studio Universal SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81159?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Syfy BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3359?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Syfy FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296384?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Syfy HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46599?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/antony/1234/160.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/1111/123456/160.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TBS
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27952?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TBS BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80078?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TBS HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27953?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TBS HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81173?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TBS HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46600?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TC Cult BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3361?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TC Fun BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3364?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80079?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46601?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM
+http://168.205.87.198:8555/live/antony/1234/112.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM SD
 http://multmix.site:80/talles/talles/296544?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE ACTION FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80080?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE ACTION SD
 http://multmix.site:80/talles/talles/296586?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE CULT SD
 http://multmix.site:80/talles/talles/296588?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE FUN FHD
 http://solutionplay.xyz:8080/techruthes/10987658/6034?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE FUN FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80082?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE FUN HD
 http://multmix.site:80/talles/talles/296589?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE PIPOCA HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80083?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE PREMIUM HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80084?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE TOUCH HD
 http://multmix.site:80/talles/talles/296595?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE TOUCH HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80085?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TLC
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22845?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TLC HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/62310?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TLC HD
 http://multmix.site:80/talles/talles/296506?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TLC HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46608?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TLC HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81169?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT
 http://168.205.87.198:8555/live/antony/1234/116.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80087?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46609?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3360?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT Series BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80088?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT Series FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81179?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT Series HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81178?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TRAVEL
-http://168.205.87.198:8555/live/1111/123456/124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT SÉRIES
+http://168.205.87.198:8555/live/antony/1234/117.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TRAVEL
 http://168.205.87.198:8555/live/antony/1234/124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TRAVEL
+http://168.205.87.198:8555/live/1111/123456/124.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV APARECIDA
 http://168.205.87.198:8555/live/1111/123456/131.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV APARECIDA
 http://168.205.87.198:8555/live/antony/1234/131.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Aparecida
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22851?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/tvatividade.png" group-title="All",TV Atividade - WebTV
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="All",TV BNO
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
+http://168.205.87.198:8555/live/antony/1234/134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
 http://168.205.87.198:8555/live/1111/123456/134.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL 2
 http://168.205.87.198:8555/live/1111/123456/135.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Brasil 2 FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103893?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Brasil FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82754?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Camara FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103895?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR;US" tvg-logo="" group-title="All",TV Capital Lucelia
 http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="All",TV Caravelas
@@ -1585,10 +895,6 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8?checkedby:iptvcat.co
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="All",TV Cinec
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Cultura FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81171?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Cultura HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81170?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV CÂMARA
 http://168.205.87.198:8555/live/antony/1234/136.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV CÂMARA
@@ -1601,22 +907,14 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8?checkedby:iptvcat.com
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="All",TV Digital Birigui
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Diário do Sertão
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22862?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="All",TV Diário do Sertão,TVDS
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
-http://168.205.87.198:8555/live/antony/1234/137.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
 http://168.205.87.198:8555/live/1111/123456/137.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22863?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/137.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="All",TV Educativa de Porto Alegre
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Envangelizar
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103900?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV GAZETA FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80090?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="All",TV Galega Blumenau
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="All",TV Gallo - WebTV
@@ -1627,24 +925,10 @@ https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8?checkedby:ipt
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="All",TV Gazeta
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Gazeta Alagoas SD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103902?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Gazeta FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103903?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Gazeta FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/96681?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Gazeta HD
 http://multmix.site:80/talles/talles/296429?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Gazeta HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3378?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Gazeta SD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103904?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Gazeta SD
 http://multmix.site:80/talles/talles/296430?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Gideoes HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103906?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Globo BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/14327?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="All",TV Guará
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" group-title="All",TV Interlagos
@@ -1655,216 +939,106 @@ http://168.205.87.198:8555/live/1111/123456/138.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/138.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/japitv.png" group-title="All",TV Japi
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Justiça FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103909?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png" group-title="All",TV Mackenzie
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/master.png" group-title="All",TV Master
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metr%C3%B3pole.png" group-title="All",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Novo Tempo FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103910?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="All",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Pai Eterno HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103913?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/3lxkJxb.png" group-title="All",TV Paraná,TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Ra Tim Bum FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103915?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Ra Tim Bum HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103916?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Ra Tim Bum HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81165?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Ra Tim Bum SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81166?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/NVs5RhF.png" group-title="All",TV Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Rio Sul SD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103918?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV SENADO
 http://168.205.87.198:8555/live/antony/1234/139.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV SENADO
 http://168.205.87.198:8555/live/1111/123456/139.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Santa Cruz FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103890?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Sol
 http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
+http://168.205.87.198:8555/live/antony/1234/152.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
 http://168.205.87.198:8555/live/1111/123456/152.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Tem Bauru FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103920?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Tem Bauru HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103921?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV UAI HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103923?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvufg.org.br/wp-content/uploads/2018/10/logo_tv_ufg_azul_16bit.png" group-title="All",TV UFG
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/valedasartes.png" group-title="All",TV Vale das Artes - WebTV
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/MnIvaNC.png" group-title="All",TV das Artes
 http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV das Artes
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103897?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV5 Monde HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103925?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/4GKZbXD.png" group-title="All",TVCI Paranaguá
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="All",TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TVE Bahia HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81201?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="All",TVN Brasil
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/c5hs2CI.jpg" group-title="All",TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27956?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="All",TVN Brasil
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action FullHD (H.265)+
 http://multmix.site:80/talles/talles/296385?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27957?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action HD
 http://multmix.site:80/talles/talles/296585?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81191?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46602?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81190?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Cult FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27958?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Cult FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296386?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Cult HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27959?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Cult HD
 http://multmix.site:80/talles/talles/296587?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Cult HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46603?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Fun FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296387?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Fun HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27962?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Fun HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46604?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Fun HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81187?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Fun SD
 http://multmix.site:80/talles/talles/296590?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Fun SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81186?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296388?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca HD
 http://multmix.site:80/talles/talles/296591?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46605?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca SD
 http://multmix.site:80/talles/talles/296800?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Premium FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81185?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Premium FullHD¹(H.265)
 http://multmix.site:80/talles/talles/296389?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Premium HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46606?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Premium HD+
 http://multmix.site:80/talles/talles/296593?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Premium SD+
 http://multmix.site:80/talles/talles/296594?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Touch FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81183?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Touch HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46607?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Touch SD
 http://multmix.site:80/talles/talles/296596?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Touch SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81182?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="All",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="All",The Retro Channel
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Tooncast HD
 http://multmix.site:80/talles/talles/296654?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Tooncast HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81167?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Tooncast HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46610?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Tooncast SD
 http://multmix.site:80/talles/talles/296655?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Tooncast SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81168?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Top TV HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/22846?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Travel Box FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/96684?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Travel Box FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81164?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Tv Diario FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103898?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Tv Diario HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103899?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Universal Channel HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46619?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Universal Channel SD
 http://multmix.site:80/talles/talles/296550?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Universal TV DUAL HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103928?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VH1 HD
 http://multmix.site:80/talles/talles/296625?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VH1 SD
 http://multmix.site:80/talles/talles/296626?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VRT CHANNEL
-http://168.205.87.198:8555/live/antony/1234/146.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/146.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="All",Vintage TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Viva HD+
 http://multmix.site:80/talles/talles/296627?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Viva SD
 http://multmix.site:80/talles/talles/296628?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WARNER CHANNEL FHD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/80094?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
-http://168.205.87.198:8555/live/antony/1234/141.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
 http://168.205.87.198:8555/live/1111/123456/141.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Wakfu S03 E13
 http://multmix.site:80/series/talles/talles/296219.mp4?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27966?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/27967?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81196?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46623?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81195?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Wohoo FHD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103932?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Woohoo HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3377?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Woohoo HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46624?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Woohoo SD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81197?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Yeeaah HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103933?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Woohoo
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13345?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="All",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="All",Yeeaah!
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO
+http://168.205.87.198:8555/live/antony/1234/162.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO
 http://168.205.87.198:8555/live/1111/123456/162.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZooMoo HD
-http://fhd.cheapstreams.xyz:2052/4BRoficial/BTHfOysLIq/103935?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Zoomoo HD
 http://multmix.site:80/talles/talles/296657?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Zoomoo HD BR
-http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46625?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Zoomoo HD BR
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/81199?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Zoomoo SD
 http://multmix.site:80/talles/talles/296658?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",disney JR HD
