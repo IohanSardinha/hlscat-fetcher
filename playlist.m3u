@@ -64,11 +64,11 @@ http://168.205.87.198:8555/live/antony/1234/10.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALADDIN
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31642?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
-http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
 http://168.205.87.198:8555/live/leila/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
 http://168.205.87.198:8555/live/antony/1234/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
+http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/90646.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC FHD
@@ -83,8 +83,6 @@ http://cdn99.one:80/984854/6b4zmQ/71770.ts?checkedby:iptvcat.com
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16692?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC HD²
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/33731?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC HEVC
-http://livetv2021.site:8080/9897876765/6576567/72?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC SD
 http://cdn99.one:80/984854/6b4zmQ/71771.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMERICA LATINO
@@ -109,8 +107,6 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31644?checkedby:iptvcat.com
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI8F49su8kGd026TTnsSsGTBzQdxyXUkLY2JDuRU1xSp/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ARTE 1 HD
 http://qqtv.nl:8080/masud/masud/26365?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AS AVENTURAS DE JACKIE CHAN
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31646?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/90645.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN FHD
@@ -122,13 +118,13 @@ http://cdn99.one:80/984854/6b4zmQ/90716.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31270?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31271?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN HD
 http://cdn99.one:80/984854/6b4zmQ/71783.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36041?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI8F49su8kGd026TTnsSsGSMzr8F94sG8RRFt-_ZeY3_/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN HD
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31271?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN HD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90715.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN HD+
@@ -147,8 +143,6 @@ http://cdn99.one:80/984854/6b4zmQ/71764.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/71765.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AgroMais HD
 http://cdn99.one:80/984854/6b4zmQ/71766.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AgroMais HD
-http://livetv2021.site:8080/9897876765/6576567/642?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AgroMais HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36007?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AgroMais SD
@@ -199,10 +193,14 @@ http://168.205.87.198:8555/live/1111/123456/19.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/19.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND CAMPINAS ¹
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND HD
+http://qqtv.nl:8080/masud/masud/165660?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND NEWS HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ETwkn7CDBET-MskXsd5ckP8/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND NEWS HD
 http://qqtv.nl:8080/masud/masud/26293?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND RJ HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9EQVL-CZS9ky7Oi7UrksNR_f/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND RJ HD²
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31053?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND RJ SD
@@ -213,6 +211,8 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ET5-0
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31134?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SPORTS HD
 http://qqtv.nl:8080/masud/masud/26295?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SPORTS HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ES2Z1daypIeVn3c0yPMOlZx/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BBC SD
 http://cdn99.one:80/984854/6b4zmQ/71805.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BEN 10
@@ -227,8 +227,6 @@ http://cdn99.one:80/984854/6b4zmQ/103527.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/71806.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BIS FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/71807.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BIS HD
-http://livetv2021.site:8080/9897876765/6576567/173?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BIS HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ERoyuIy_66vv1oF3EmJeLst/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BIS HD
@@ -267,8 +265,6 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36010?checkedby:iptvcat.com
 http://livetv2021.site:8080/9897876765/6576567/644?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Baby TV SD
 http://cdn99.one:80/984854/6b4zmQ/130198.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="All",Babyfirst
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band BA SD
 http://cdn99.one:80/984854/6b4zmQ/72620.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Band HD
@@ -440,11 +436,11 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31676?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CHEF TV FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31598?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CHESPIRITO
-http://168.205.87.198:8555/live/antony/1234/159.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CHESPIRITO
 http://168.205.87.198:8555/live/leila/123456/159.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CHESPIRITO
 http://168.205.87.198:8555/live/1111/123456/159.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CHESPIRITO
+http://168.205.87.198:8555/live/antony/1234/159.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CINE BRASIL
 http://168.205.87.198:8555/live/antony/1234/145.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CINE BRASIL
@@ -467,10 +463,6 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJjRq3jx1wUoczQYaoNd9ERgNC
 http://168.205.87.198:8555/live/leila/123456/27.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
 http://168.205.87.198:8555/live/antony/1234/27.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
-http://168.205.87.198:8555/live/1111/123456/27.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLIMA
-http://168.205.87.198:8555/live/1111/123456/158.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLIMA
 http://168.205.87.198:8555/live/antony/1234/158.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLIMA
@@ -479,12 +471,8 @@ http://168.205.87.198:8555/live/leila/123456/158.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/28.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
 http://168.205.87.198:8555/live/leila/123456/28.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
-http://168.205.87.198:8555/live/1111/123456/28.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31509?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL HD
-http://livetv2021.site:8080/9897876765/6576567/8833?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRAZIL
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIc3p60UfS6gFUTy9vz9clP8n3eNq8BmpBYkYK_Yp2y6/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN Brasil 4K FHDR
@@ -505,12 +493,8 @@ http://168.205.87.198:8555/live/antony/1234/150.ts?checkedby:iptvcat.com
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
 http://168.205.87.198:8555/live/leila/123456/150.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
-http://168.205.87.198:8555/live/1111/123456/150.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="All",COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",COMBATE
-http://tv5full.xyz:25461/ametv1/96O3H71Npc/3310?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",COMBATE FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31136?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",COMBATE HD
@@ -542,11 +526,11 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36069?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CONMEBOL TV 4 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/103521.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
-http://168.205.87.198:8555/live/leila/123456/30.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
 http://168.205.87.198:8555/live/antony/1234/30.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
 http://168.205.87.198:8555/live/1111/123456/30.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
+http://168.205.87.198:8555/live/leila/123456/30.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULTURA
 http://168.205.87.198:8555/live/1111/123456/32.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULTURA
@@ -571,6 +555,8 @@ http://cdn99.one:80/984854/6b4zmQ/71817.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/71818.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Brasil HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35975?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Brasil HD
+http://livetv2021.site:8080/9897876765/6576567/117?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Brasil SD
 http://cdn99.one:80/984854/6b4zmQ/71819.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Rural SD
@@ -583,6 +569,8 @@ http://cdn99.one:80/984854/6b4zmQ/71824.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/71825.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Sony FHD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90713.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Sony HD
+http://livetv2021.site:8080/9897876765/6576567/6651?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Sony HD
 http://cdn99.one:80/984854/6b4zmQ/71826.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal Sony HD
@@ -603,10 +591,14 @@ http://cdn99.one:80/984854/6b4zmQ/71820.ts?checkedby:iptvcat.com
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36051?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal do Boi HD
 http://cdn99.one:80/984854/6b4zmQ/71821.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal do Boi HD
+http://livetv2021.site:8080/9897876765/6576567/6661?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Canal do Boi SD
 http://cdn99.one:80/984854/6b4zmQ/71822.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="All",Capital TV
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cartoon HD
+http://livetv2021.site:8080/9897876765/6576567/8831?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cartoon Network 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/71830.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cartoon Network FHD
@@ -615,6 +607,8 @@ http://cdn99.one:80/984854/6b4zmQ/71828.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/71829.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cartoon Network HD
 http://cdn99.one:80/984854/6b4zmQ/71831.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cartoon Network HD
+http://livetv2021.site:8080/9897876765/6576567/6664?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cartoon Network HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36055?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Cartoon Network HD+
@@ -689,6 +683,8 @@ http://cdn99.one:80/984854/6b4zmQ/71842.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/71843.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Combate HD
 http://cdn99.one:80/984854/6b4zmQ/71845.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Combate HD
+http://livetv2021.site:8080/9897876765/6576567/119?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Combate HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36084?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Combate HD
@@ -809,6 +805,10 @@ http://cdn99.one:80/984854/6b4zmQ/72630.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/71861.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DAZN 4 HD
 http://cdn99.one:80/984854/6b4zmQ/71859.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DAZN UHD
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/26616?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DAZN2 FULL HD
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31210?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DAZN2 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31211?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL
@@ -842,15 +842,13 @@ http://168.205.87.198:8555/live/antony/1234/36.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY ID FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31109?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS
-http://168.205.87.198:8555/live/antony/1234/37.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS
 http://168.205.87.198:8555/live/leila/123456/37.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbITBJxjnFtiusz3EF2MWfdRmmF2xxUsHMcAhTMA3lJIx/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS
+http://168.205.87.198:8555/live/antony/1234/37.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31482?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY SCIENCE HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbITBJxjnFtiusz3EF2MWfdRPwHSQK6Y0JWRUU9k_ULii/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbITBJxjnFtiusz3EF2MWfdRmmF2xxUsHMcAhTMA3lJIx/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY THEATER HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbITBJxjnFtiusz3EF2MWfdQulAK-Uasoh-vrpBB80B80/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY THEATHER  HD
@@ -861,6 +859,8 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31113?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/leila/123456/40.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY TLC
 http://168.205.87.198:8555/live/antony/1234/40.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY TLC HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5QifbvrFAQTXpWJCh4ho-bpvf8R0EroY6h8eJFJN3x/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY TURBO
 http://qqtv.nl:8080/masud/masud/26311?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY TURBO FULL HD
@@ -872,11 +872,11 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5QifbvrFAQTXpWJCh4ho9cSc
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY WORLD FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31116?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY WORLD HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5QifbvrFAQTXpWJCh4ho8uYMItRbTLYQQoxgDEjBNd/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY WORLD HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31117?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY WORLD HD
 http://qqtv.nl:8080/masud/masud/26317?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY WORLD HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5QifbvrFAQTXpWJCh4ho8uYMItRbTLYQQoxgDEjBNd/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL
 http://168.205.87.198:8555/live/leila/123456/45.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL
@@ -894,15 +894,13 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31485?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY JUNIOR HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31486?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD
-http://168.205.87.198:8555/live/antony/1234/47.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD
 http://168.205.87.198:8555/live/leila/123456/47.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD
+http://168.205.87.198:8555/live/antony/1234/47.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31487?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31488?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5QifbvrFAQTXpWJCh4ho-mRmKmeqF-rzwmaDDAT9zW/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DOG TV FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/104909.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DOG TV HD
@@ -916,9 +914,9 @@ http://cdn99.one:80/984854/6b4zmQ/71862.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/71863.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel HD
-http://cdn99.one:80/984854/6b4zmQ/71865.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36045?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel HD
+http://cdn99.one:80/984854/6b4zmQ/71865.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel SD
 http://cdn99.one:80/984854/6b4zmQ/71866.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery H&H 4K FHDR
@@ -1057,8 +1055,12 @@ http://cdn99.one:80/984854/6b4zmQ/71902.ts?checkedby:iptvcat.com
 http://qqtv.nl:8080/masud/masud/26312?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",E! SD
 http://cdn99.one:80/984854/6b4zmQ/71903.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ELEVEN SPORTS 04 HD
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32859?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ELEVEN SPORTS 05 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32860?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ELEVEN SPORTS 06 HD
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32861?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ELEVEN SPORTS 07 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32862?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ELEVEN SPORTS 08 HD
@@ -1172,8 +1174,6 @@ http://cdn99.one:80/984854/6b4zmQ/71923.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN2 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/103504.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN2 HD
-http://livetv2021.site:8080/9897876765/6576567/6618?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN2 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36014?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Eleven Sports 1 FHD
 http://cdn99.one:80/984854/6b4zmQ/73254.ts?checkedby:iptvcat.com
@@ -1203,6 +1203,8 @@ http://cdn99.one:80/984854/6b4zmQ/104912.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1111/123456/61.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FASHION TV
 http://168.205.87.198:8555/live/antony/1234/61.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FASHION TV
+http://168.205.87.198:8555/live/leila/123456/61.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="All",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV
@@ -1222,7 +1224,11 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31606?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOOD NETWORK HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI1lJmfk6X_rKjD9MDsYtDVPP_3938zm5kbpDwkJwGIZ/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX HD
+http://qqtv.nl:8080/masud/masud/26298?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI1lJmfk6X_rKjD9MDsYtDUrpxG-lM7L9XCS6dp-PVQu/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX LIFE HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI1lJmfk6X_rKjD9MDsYtDUH0OBEgK-_2QmJyBaMa1Et/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX PREMIUM 1 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI1lJmfk6X_rKjD9MDsYtDXmpxBwcsxgK7VIDDLGykd_/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX PREMIUM 1 HD
@@ -1264,6 +1270,8 @@ http://cdn99.one:80/984854/6b4zmQ/71967.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX FHD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90710.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJFUTlXoZEoOYHmcrHphWUi71szKaqnyUW7SMacXpc7Y/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX HD
 http://cdn99.one:80/984854/6b4zmQ/71968.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31277?checkedby:iptvcat.com
@@ -1293,8 +1301,6 @@ http://cdn99.one:80/984854/6b4zmQ/71925.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/71926.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FashionTV SD
 http://cdn99.one:80/984854/6b4zmQ/71927.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Film & Arts HEVC
-http://livetv2021.site:8080/9897876765/6576567/74?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Film&Arts FHD
 http://cdn99.one:80/984854/6b4zmQ/104914.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Film&Arts FHD [H265]
@@ -1312,9 +1318,9 @@ http://cdn99.one:80/984854/6b4zmQ/71928.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fish TV FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/71929.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fish TV HD
-http://cdn99.one:80/984854/6b4zmQ/71930.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fish TV HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35970?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fish TV HD
+http://cdn99.one:80/984854/6b4zmQ/71930.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fish TV SD
 http://cdn99.one:80/984854/6b4zmQ/71931.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Food Network 4K FHDR
@@ -1364,13 +1370,13 @@ http://cdn99.one:80/984854/6b4zmQ/104942.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",France 24 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36021?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",France 24 HD
-http://livetv2021.site:8080/9897876765/6576567/6622?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",France 24 HD
 http://cdn99.one:80/984854/6b4zmQ/104907.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",France 24 SD
 http://cdn99.one:80/984854/6b4zmQ/104941.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Furacao Live FHD
 http://cdn99.one:80/984854/6b4zmQ/142040.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Furacao Live HD
+http://cdn99.one:80/984854/6b4zmQ/105789.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Furacao Live SD
 http://cdn99.one:80/984854/6b4zmQ/142041.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Futura 4K FHDR
@@ -1390,6 +1396,8 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31702?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
 http://168.205.87.198:8555/live/antony/1234/69.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
+http://168.205.87.198:8555/live/1111/123456/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
 http://168.205.87.198:8555/live/leila/123456/69.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA 4K
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31037?checkedby:iptvcat.com
@@ -1405,14 +1413,14 @@ http://qqtv.nl:8080/masud/masud/165655?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/leila/123456/70.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS
 http://168.205.87.198:8555/live/1111/123456/70.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS
-http://168.205.87.198:8555/live/antony/1234/70.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJFUTlXoZEoOYHmcrHphWUgqLXDxAqrFuZwr3TpzXS14/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO NEWS HD
 http://qqtv.nl:8080/masud/masud/26354?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO NEWS HD
 http://linea.cc:8000/test123/test123/24973.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO NEWS HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJFUTlXoZEoOYHmcrHphWUhn1v_ecT-yzCUo4W_A0HkX/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO NSC Blumenau HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32341?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO NSC TV FLORIANOPOLIS HD
@@ -1425,10 +1433,12 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32298?checkedby:iptvcat.com
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32345?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO RJ HD
 http://linea.cc:8000/test123/test123/24975.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO RJ HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJFUTlXoZEoOYHmcrHphWUgL8v09VpJly7z41FJhTnWu/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO SANTOS
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32323?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO SP HD
-http://livetv2021.site:8080/9897876765/6576567/8402?checkedby:iptvcat.com
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDFjBXFLrYsLk6dfL78na_FQ4LkzTWnviDNyHVIpS9bD/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO SP SD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/32175?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO TV CABUGI HD
@@ -1580,11 +1590,11 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31608?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GNT HD
 http://cdn99.one:80/984854/6b4zmQ/72104.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GNT HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDFjBXFLrYsLk6dfL78na_H3bS7kEfcqMHQQw5002-PN/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GNT HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36027?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GNT HD
 http://qqtv.nl:8080/masud/masud/26273?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GNT HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDFjBXFLrYsLk6dfL78na_H3bS7kEfcqMHQQw5002-PN/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo Brasilia FHD
 http://cdn99.one:80/984854/6b4zmQ/131151.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo Brasilia HD
@@ -1974,17 +1984,17 @@ http://cdn99.one:80/984854/6b4zmQ/133067.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Subae SD
 http://cdn99.one:80/984854/6b4zmQ/133069.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Sudoeste FHD
-http://cdn99.one:80/984854/6b4zmQ/72092.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Sudoeste FHD
 http://cdn99.one:80/984854/6b4zmQ/135429.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Sudoeste FHD
+http://cdn99.one:80/984854/6b4zmQ/72092.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Sudoeste HD
 http://cdn99.one:80/984854/6b4zmQ/72093.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Sudoeste HD
 http://cdn99.one:80/984854/6b4zmQ/135430.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Sudoeste SD
-http://cdn99.one:80/984854/6b4zmQ/135431.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Sudoeste SD
 http://cdn99.one:80/984854/6b4zmQ/72094.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV Sudoeste SD
+http://cdn99.one:80/984854/6b4zmQ/135431.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV TEM Bauru FHD
 http://cdn99.one:80/984854/6b4zmQ/91431.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV TEM Bauru HD
@@ -2041,8 +2051,6 @@ http://cdn99.one:80/984854/6b4zmQ/72096.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/131137.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GloboNews HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35994?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GloboNews HD
-http://livetv2021.site:8080/9897876765/6576567/169?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloob 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/103498.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloob FHD
@@ -2067,8 +2075,8 @@ http://cdn99.one:80/984854/6b4zmQ/90630.ts?checkedby:iptvcat.com
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35962?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloobinho HD
 http://cdn99.one:80/984854/6b4zmQ/90629.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloobinho HEVC
-http://livetv2021.site:8080/9897876765/6576567/97?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloobinho HD
+http://livetv2021.site:8080/9897876765/6576567/96?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloobinho SD
 http://cdn99.one:80/984854/6b4zmQ/131173.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 4K FHDR
@@ -2081,6 +2089,8 @@ http://cdn99.one:80/984854/6b4zmQ/72107.ts?checkedby:iptvcat.com
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31118?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 HD
 http://cdn99.one:80/984854/6b4zmQ/72108.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDFjBXFLrYsLk6dfL78na_HcwlYr5xmQ4hqlbPeKQTV3/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 HD+
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16733?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 SD
@@ -2094,15 +2104,19 @@ http://cdn99.one:80/984854/6b4zmQ/72110.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2 FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/72111.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2 HD
-http://cdn99.one:80/984854/6b4zmQ/72112.ts?checkedby:iptvcat.com
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDFjBXFLrYsLk6dfL78na_HHKXx3jE9olkEUnRgMnfFZ/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31460?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2 HD
+http://cdn99.one:80/984854/6b4zmQ/72112.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2 SD
 http://cdn99.one:80/984854/6b4zmQ/72113.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/90247.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO FAMILY HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31462?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO FAMILY HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDFjBXFLrYsLk6dfL78na_FYCBNNxA_FhtTcx2wpXwkT/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO FAMILY HD*
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31463?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO FHD
@@ -2128,11 +2142,13 @@ http://cdn99.one:80/984854/6b4zmQ/72116.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Family SD
 http://cdn99.one:80/984854/6b4zmQ/72117.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO HD
-http://livetv2021.site:8080/9897876765/6576567/125?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35980?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDFjBXFLrYsLk6dfL78na_GKVd35JJ4chWYyd1wsfHsm/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO HD
 http://qqtv.nl:8080/masud/masud/26299?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO HD
+http://livetv2021.site:8080/9897876765/6576567/125?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO HD
 http://cdn99.one:80/984854/6b4zmQ/72120.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO HD [LEG]
@@ -2155,6 +2171,8 @@ http://cdn99.one:80/984854/6b4zmQ/71905.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/140511.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Max 3 FHD
 http://cdn99.one:80/984854/6b4zmQ/140506.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Max 3 HD
+http://cdn99.one:80/984854/6b4zmQ/71906.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Max 3 SD
 http://cdn99.one:80/984854/6b4zmQ/140512.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Max 4 FHD
@@ -2191,6 +2209,8 @@ http://cdn99.one:80/984854/6b4zmQ/72124.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/90693.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO PLUS HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31469?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO PLUS HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDFjBXFLrYsLk6dfL78na_GIag5qZK8nSTjrCHajRYoh/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO POP 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/103495.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO POP FULLHD
@@ -2213,8 +2233,6 @@ http://cdn99.one:80/984854/6b4zmQ/90692.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/72127.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Plus HD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90691.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Plus SD
-http://cdn99.one:80/984854/6b4zmQ/72128.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Plus SD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90690.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Pop FHD
@@ -2239,6 +2257,8 @@ http://cdn99.one:80/984854/6b4zmQ/90696.ts?checkedby:iptvcat.com
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31472?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO SIGNATURE HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO SIGNATURE HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDFjBXFLrYsLk6dfL78na_GoAGgDBJIXrjv0y0mhmtZN/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/103494.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature FHD
@@ -2247,8 +2267,6 @@ http://cdn99.one:80/984854/6b4zmQ/72134.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/72135.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature FHD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90686.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature HD
-http://livetv2021.site:8080/9897876765/6576567/131?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35985?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO Signature HD
@@ -2328,9 +2346,9 @@ http://cdn99.one:80/984854/6b4zmQ/72150.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ID FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/72151.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ID HD
-http://cdn99.one:80/984854/6b4zmQ/72152.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ID HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36057?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ID HD
+http://cdn99.one:80/984854/6b4zmQ/72152.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ID Investigao Discovery HD+
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16736?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ID SD
@@ -2365,6 +2383,8 @@ http://168.205.87.198:8555/live/leila/123456/143.ts?checkedby:iptvcat.com
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="All",Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LIFETIME HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGINkOVv-Cbcd0siPITqEeuS8PkO3iDsXTI19SYSdEfj/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LOADING TV
 http://168.205.87.198:8555/live/leila/123456/142.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LOADING TV
@@ -2398,8 +2418,6 @@ http://cdn99.one:80/984854/6b4zmQ/72158.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Like FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/72159.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Like HD
-http://livetv2021.site:8080/9897876765/6576567/106?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Like HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/33742?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Like HD
 http://cdn99.one:80/984854/6b4zmQ/72160.ts?checkedby:iptvcat.com
@@ -2432,11 +2450,11 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGINkOVv-Cbcd0siPITqEetdac
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MAX UP HD
 http://qqtv.nl:8080/masud/masud/26325?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
-http://168.205.87.198:8555/live/1111/123456/75.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
 http://168.205.87.198:8555/live/leila/123456/75.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
 http://168.205.87.198:8555/live/antony/1234/75.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
+http://168.205.87.198:8555/live/1111/123456/75.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGAPIX FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31278?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGAPIX HD
@@ -2456,6 +2474,8 @@ http://cdn99.one:80/984854/6b4zmQ/72172.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31615?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGINkOVv-Cbcd0siPITqEesJjiH4GcJXt_AyduHpJ1RO/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV HD
 http://cdn99.one:80/984854/6b4zmQ/72173.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31616?checkedby:iptvcat.com
@@ -2463,8 +2483,6 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31616?checkedby:iptvcat.com
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16738?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV LIVE 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/103489.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV LIVE HD
-http://livetv2021.site:8080/9897876765/6576567/6646?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV LIVE HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36033?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV Live FHD
@@ -2564,8 +2582,6 @@ http://cdn99.one:80/984854/6b4zmQ/72185.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Music Box Brazil HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36049?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Music Box Brazil HD
-http://livetv2021.site:8080/9897876765/6576567/6659?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Music Box Brazil HD
 http://cdn99.one:80/984854/6b4zmQ/72186.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Music Box Brazil SD
 http://cdn99.one:80/984854/6b4zmQ/72187.ts?checkedby:iptvcat.com
@@ -2623,12 +2639,12 @@ http://cdn99.one:80/984854/6b4zmQ/141491.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/141492.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NHK
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36009?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NHK HD
-http://livetv2021.site:8080/9897876765/6576567/645?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NHK SD
 http://cdn99.one:80/984854/6b4zmQ/91990.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NICK JR FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31497?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NICK JR HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF8_ye4f5gtr36ohKSUeq_35iAfc75fkiTpHi0-xho6c/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NICKELODEON FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31499?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NICKELODEON HD
@@ -2636,9 +2652,9 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF8_ye4f5gtr36ohKSUeq_1gNA
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NICKELODEON HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31500?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NOVO TEMPO
-http://168.205.87.198:8555/live/1111/123456/149.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NOVO TEMPO
 http://168.205.87.198:8555/live/antony/1234/149.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NOVO TEMPO
+http://168.205.87.198:8555/live/1111/123456/149.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nat Geo Kids 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/103486.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Nat Geo Kids FHD
@@ -2707,10 +2723,10 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16745?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/72208.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="All",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="All",Novo Tempo,Novo Tempo (Backup)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="All",Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="All",Novo Tempo,Novo Tempo (Backup)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="All",O Reino Infantil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF 4K FHDR
@@ -2722,11 +2738,11 @@ http://cdn99.one:80/984854/6b4zmQ/72210.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31159?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF HD
-http://cdn99.one:80/984854/6b4zmQ/72211.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36001?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF8_ye4f5gtr36ohKSUeq_3gnk06d4bVEAf-By736hQo/ts?checkedby:iptvcat.com
+http://livetv2021.site:8080/9897876765/6576567/170?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF HD
+http://cdn99.one:80/984854/6b4zmQ/72211.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF SD
 http://cdn99.one:80/984854/6b4zmQ/72212.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="All",Ocko Star
@@ -2757,6 +2773,8 @@ http://168.205.87.198:8555/live/antony/1234/153.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1111/123456/153.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PORTAL
 http://168.205.87.198:8555/live/leila/123456/82.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PORTAL
+http://168.205.87.198:8555/live/antony/1234/82.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",POWER RANGERS
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31754?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 2 UHD
@@ -2764,11 +2782,11 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31531?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 3 FULL HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31532?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 3 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKDjg0g8dF72VN1t8Wn8CKxOECE6Ux6xHRib3AzlrKfz/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 3 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31533?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 3 HD
 http://tv5full.xyz:25461/ametv1/96O3H71Npc/23742?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 3 HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKDjg0g8dF72VN1t8Wn8CKxOECE6Ux6xHRib3AzlrKfz/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 3 UHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31535?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 4 FULL HD
@@ -2794,9 +2812,9 @@ http://tv5full.xyz:25461/ametv1/96O3H71Npc/23748?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE CLUBES HD²
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31527?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
-http://168.205.87.198:8555/live/antony/1234/83.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
 http://168.205.87.198:8555/live/1111/123456/83.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
+http://168.205.87.198:8555/live/antony/1234/83.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
 http://168.205.87.198:8555/live/leila/123456/83.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Pai Eterno 4K FHDR
@@ -2806,11 +2824,11 @@ http://cdn99.one:80/984854/6b4zmQ/72213.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Pai Eterno FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/72216.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Pai Eterno HD
-http://livetv2021.site:8080/9897876765/6576567/112?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Pai Eterno HD
 http://cdn99.one:80/984854/6b4zmQ/72214.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Pai Eterno HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35972?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Pai Eterno HD
+http://livetv2021.site:8080/9897876765/6576567/112?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Pai Eterno SD
 http://cdn99.one:80/984854/6b4zmQ/72215.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Paramount Channel 4K FHDR
@@ -2840,9 +2858,9 @@ http://cdn99.one:80/984854/6b4zmQ/72237.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 2 FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/72238.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 2 HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35979?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 2 HD
 http://livetv2021.site:8080/9897876765/6576567/124?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 2 HD
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35979?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 2 HD
 http://cdn99.one:80/984854/6b4zmQ/72239.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 2 SD
@@ -2928,6 +2946,8 @@ http://cdn99.one:80/984854/6b4zmQ/72263.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere Clubes HD
 http://cdn99.one:80/984854/6b4zmQ/72265.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere Clubes HD
+http://livetv2021.site:8080/9897876765/6576567/122?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere Clubes HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35978?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere Clubes SD
 http://cdn99.one:80/984854/6b4zmQ/72266.ts?checkedby:iptvcat.com
@@ -2938,17 +2958,19 @@ http://cdn99.one:80/984854/6b4zmQ/72267.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Prime Box Brazil FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/72268.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Prime Box Brazil HD
-http://livetv2021.site:8080/9897876765/6576567/6660?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Prime Box Brazil HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36050?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Prime Box Brazil HD
 http://cdn99.one:80/984854/6b4zmQ/72269.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Prime Box Brazil HD
+http://livetv2021.site:8080/9897876765/6576567/6660?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Prime Box Brazil SD
 http://cdn99.one:80/984854/6b4zmQ/72270.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
 http://168.205.87.198:8555/live/leila/123456/84.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
 http://168.205.87.198:8555/live/1111/123456/84.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
+http://168.205.87.198:8555/live/antony/1234/84.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RBS TV HD Porto Alegre
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36077?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="All",RCI,TV Pai Eterno (Backup)
@@ -2968,15 +2990,11 @@ http://qqtv.nl:8080/masud/masud/165657?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
 http://168.205.87.198:8555/live/antony/1234/96.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
-http://168.205.87.198:8555/live/1111/123456/96.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
 http://168.205.87.198:8555/live/leila/123456/96.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31565?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
 http://168.205.87.198:8555/live/leila/123456/97.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
-http://168.205.87.198:8555/live/1111/123456/97.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
 http://168.205.87.198:8555/live/antony/1234/97.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS FHD
@@ -3009,8 +3027,6 @@ http://qqtv.nl:8080/masud/masud/26361?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/151.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
 http://168.205.87.198:8555/live/leila/123456/151.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
-http://168.205.87.198:8555/live/1111/123456/151.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
 http://168.205.87.198:8555/live/antony/1234/98.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
@@ -3052,8 +3068,6 @@ http://168.205.87.198:8555/live/1111/123456/103.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE VIDA HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJX1Ttv73RSwr1Q2L1ncl7XNfebJcswe057Y7KpCsbhR/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RIC TV - RECORDTV
-http://livetv2021.site:8080/9897876765/6576567/137?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RIC TV - RECORDTV
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35991?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RIT
 http://168.205.87.198:8555/live/leila/123456/168.ts?checkedby:iptvcat.com
@@ -3066,11 +3080,7 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35966?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RPC TV Curitiba HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36086?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RSC
-http://168.205.87.198:8555/live/1111/123456/147.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RSC
 http://168.205.87.198:8555/live/antony/1234/147.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RTP INTERNATIONAL
-http://qqtv.nl:8080/masud/masud/165654?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/radioU.png" group-title="All",RadioU
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Record HD - BR
@@ -3203,8 +3213,6 @@ http://cdn99.one:80/984854/6b4zmQ/72298.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/72299.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RedeTV SD
 http://cdn99.one:80/984854/6b4zmQ/72300.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RedeTV! HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35992?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="All",Retrô TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="All",Rádio Jornal
@@ -3228,9 +3236,9 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
 http://168.205.87.198:8555/live/antony/1234/104.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
-http://168.205.87.198:8555/live/leila/123456/104.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
 http://168.205.87.198:8555/live/1111/123456/104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
+http://168.205.87.198:8555/live/leila/123456/104.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT BRASIL
 http://qqtv.nl:8080/masud/masud/26362?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT FULLHD
@@ -3243,6 +3251,8 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJX1Ttv73RSwr1Q2L1ncl7VP2Z
 http://cdn99.one:80/984854/6b4zmQ/108681.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT RJ HD
 http://cdn99.one:80/984854/6b4zmQ/108682.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT RJ HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJX1Ttv73RSwr1Q2L1ncl7XLsC65seCgV9gxIsQLr9fE/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT RJ SD
 http://cdn99.one:80/984854/6b4zmQ/108683.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT RJ ¹
@@ -3270,19 +3280,17 @@ http://cdn99.one:80/984854/6b4zmQ/72621.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT TV SERRA DOURADA FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31080?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
-http://168.205.87.198:8555/live/1111/123456/105.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
 http://168.205.87.198:8555/live/leila/123456/105.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
 http://168.205.87.198:8555/live/antony/1234/105.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCOOBY DOO
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31667?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
-http://168.205.87.198:8555/live/antony/1234/106.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
 http://168.205.87.198:8555/live/leila/123456/106.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
 http://168.205.87.198:8555/live/1111/123456/106.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
+http://168.205.87.198:8555/live/antony/1234/106.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SESC TV
 http://168.205.87.198:8555/live/leila/123456/107.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SESC TV
@@ -3327,6 +3335,8 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31166?checkedby:iptvcat.com
 http://qqtv.nl:8080/masud/masud/26277?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV 3 HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJX1Ttv73RSwr1Q2L1ncl7UsDwYtm5X0BGoSMDpV22Jp/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJX1Ttv73RSwr1Q2L1ncl7XILsH1PHRkTRtL0jHP9mft/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV HD*
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31170?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STAR CHANNEL FULLHD
@@ -3347,8 +3357,6 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36020?checkedby:iptvcat.com
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/16723?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STAR HITS HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36019?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STAR HITS HD
-http://livetv2021.site:8080/9897876765/6576567/930?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STAR LIFE FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31623?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STAR LIFE HD
@@ -3373,8 +3381,6 @@ http://cdn99.one:80/984854/6b4zmQ/112017.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/112014.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sabor & Arte HD
 http://cdn99.one:80/984854/6b4zmQ/112016.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sabor & Arte HD
-http://livetv2021.site:8080/9897876765/6576567/6619?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sabor & Arte HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36015?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sabor & Arte SD
@@ -3459,8 +3465,6 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36024?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/103471.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV3 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35973?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sportv  UHD
-http://livetv2021.site:8080/9897876765/6576567/55?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Sportv 4 UHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/34185?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Star + 1 FHD
@@ -3576,6 +3580,8 @@ http://cdn99.one:80/984854/6b4zmQ/72341.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/leila/123456/160.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SÉRIES CLÁSSICAS
+http://168.205.87.198:8555/live/1111/123456/160.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/antony/1234/160.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TBS 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/103466.ts?checkedby:iptvcat.com
@@ -3597,6 +3603,8 @@ http://168.205.87.198:8555/live/leila/123456/112.ts?checkedby:iptvcat.com
 http://qqtv.nl:8080/masud/masud/26326?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM FHD
 http://cdn99.one:80/984854/6b4zmQ/73251.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM FULLHD
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31297?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM HD
 http://cdn99.one:80/984854/6b4zmQ/73252.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM HD
@@ -3754,9 +3762,9 @@ http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31082?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Anhanguera Goiânia HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36085?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Aparecida
-http://livetv2021.site:8080/9897876765/6576567/6671?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Aparecida
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36060?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Aparecida
+http://livetv2021.site:8080/9897876765/6576567/6671?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Aparecida 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/103464.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Aparecida FHD
@@ -3796,8 +3804,6 @@ http://cdn99.one:80/984854/6b4zmQ/72399.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Brasil FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/72400.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Brasil HD
-http://livetv2021.site:8080/9897876765/6576567/643?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Brasil HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36006?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Brasil HD
 http://cdn99.one:80/984854/6b4zmQ/72401.ts?checkedby:iptvcat.com
@@ -3833,6 +3839,8 @@ http://cdn99.one:80/984854/6b4zmQ/92668.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/92669.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="All",TV Cinec
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Coxa HD
+http://cdn99.one:80/984854/6b4zmQ/105790.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV CÂMARA
 http://168.205.87.198:8555/live/leila/123456/136.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV CÂMARA
@@ -3858,11 +3866,11 @@ http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?c
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="All",TV Diário do Sertão,TVDS
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
-http://168.205.87.198:8555/live/antony/1234/137.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
 http://168.205.87.198:8555/live/leila/123456/137.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
 http://168.205.87.198:8555/live/1111/123456/137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
+http://168.205.87.198:8555/live/antony/1234/137.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV EVANGELIZAR
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31570?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="All",TV Educativa de Porto Alegre
@@ -3936,8 +3944,6 @@ http://cdn99.one:80/984854/6b4zmQ/72408.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Novo Tempo FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/72409.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Novo Tempo HD
-http://livetv2021.site:8080/9897876765/6576567/6648?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Novo Tempo HD
 http://cdn99.one:80/984854/6b4zmQ/72410.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Novo Tempo HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36035?checkedby:iptvcat.com
@@ -3962,15 +3968,13 @@ http://cdn99.one:80/984854/6b4zmQ/72415.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/NVs5RhF.png" group-title="All",TV Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Rá Tim Bum HD
-http://livetv2021.site:8080/9897876765/6576567/95?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Rá Tim Bum HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36087?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV SENADO
-http://168.205.87.198:8555/live/1111/123456/139.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV SENADO
 http://168.205.87.198:8555/live/leila/123456/139.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV SENADO
 http://168.205.87.198:8555/live/antony/1234/139.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV SENADO
+http://168.205.87.198:8555/live/1111/123456/139.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Senado SD
 http://cdn99.one:80/984854/6b4zmQ/72416.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Sol
@@ -3979,6 +3983,8 @@ http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/152.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
 http://168.205.87.198:8555/live/1111/123456/152.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
+http://168.205.87.198:8555/live/leila/123456/152.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Tem HD Bauru
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36079?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvufg.org.br/wp-content/uploads/2018/10/logo_tv_ufg_azul_16bit.png" group-title="All",TV UFG
@@ -4007,16 +4013,12 @@ http://cdn99.one:80/984854/6b4zmQ/72418.ts?checkedby:iptvcat.com
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" group-title="All",TVE Bahia
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="All",TVN Brasil
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TVN Sports 1 HD
 http://cdn99.one:80/984854/6b4zmQ/111408.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TVN Sports 2 HD
 http://cdn99.one:80/984854/6b4zmQ/111409.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TVN Sports 3 HD
 http://cdn99.one:80/984854/6b4zmQ/111410.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action
-http://livetv2021.site:8080/9897876765/6576567/8765?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/90239.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action FHD
@@ -4025,8 +4027,6 @@ http://cdn99.one:80/984854/6b4zmQ/72346.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/72347.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action FHD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90668.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action HD
-http://livetv2021.site:8080/9897876765/6576567/1?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36008?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Action HD
@@ -4066,7 +4066,7 @@ http://cdn99.one:80/984854/6b4zmQ/90662.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Fun HD
 http://cdn99.one:80/984854/6b4zmQ/72356.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Fun HD
-http://livetv2021.site:8080/9897876765/6576567/63?checkedby:iptvcat.com
+http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36011?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Fun HD - BR
 http://tv5full.xyz:25461/ametv1/96O3H71Npc/42511?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Fun HD [LEG]
@@ -4084,11 +4084,11 @@ http://cdn99.one:80/984854/6b4zmQ/72359.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca FHD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90659.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca HD
-http://livetv2021.site:8080/9897876765/6576567/65?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca HD
 http://cdn99.one:80/984854/6b4zmQ/72360.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35997?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca HD
+http://livetv2021.site:8080/9897876765/6576567/65?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca HD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90658.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Pipoca HEVC
@@ -4125,8 +4125,6 @@ http://cdn99.one:80/984854/6b4zmQ/72366.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/72367.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Touch FHD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90653.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Touch HD
-http://livetv2021.site:8080/9897876765/6576567/2?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Touch HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35996?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Telecine Touch HD
@@ -4168,8 +4166,6 @@ http://cdn99.one:80/984854/6b4zmQ/72390.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Travel Box Brazil FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/72391.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Travel Box Brazil HD
-http://livetv2021.site:8080/9897876765/6576567/6644?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Travel Box Brazil HD
 http://cdn99.one:80/984854/6b4zmQ/72392.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Travel Box Brazil HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36031?checkedby:iptvcat.com
@@ -4190,15 +4186,15 @@ http://cdn99.one:80/984854/6b4zmQ/72419.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Universal TV FHD [H265]
 http://cdn99.one:80/984854/6b4zmQ/72420.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Universal TV HD
-http://cdn99.one:80/984854/6b4zmQ/72421.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Universal TV HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/35977?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Universal TV HD
+http://cdn99.one:80/984854/6b4zmQ/72421.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Universal TV SD
 http://cdn99.one:80/984854/6b4zmQ/72422.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VH1 HD
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOgUmYhzCQ8HrKfv7wI97-L9cl2fqst4WS0ESpmDaLPD/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VH1 HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31628?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VH1 HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOgUmYhzCQ8HrKfv7wI97-L9cl2fqst4WS0ESpmDaLPD/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VH1 MEGA HITS FULLHD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31629?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VIVA HD
@@ -4234,7 +4230,7 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOgUmYhzCQ8HrKfv7wI97-KCnL
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
 http://168.205.87.198:8555/live/leila/123456/141.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
-http://168.205.87.198:8555/live/1111/123456/141.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/141.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel 4K FHDR
 http://cdn99.one:80/984854/6b4zmQ/90236.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel FHD
@@ -4244,11 +4240,11 @@ http://cdn99.one:80/984854/6b4zmQ/72432.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel FHD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90650.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel HD
-http://livetv2021.site:8080/9897876765/6576567/6650?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36039?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel HD
 http://cdn99.one:80/984854/6b4zmQ/72433.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel HD
+http://livetv2021.site:8080/9897876765/6576567/6650?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel HD [LEG]
 http://cdn99.one:80/984854/6b4zmQ/90649.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner Channel HD+
@@ -4269,8 +4265,6 @@ http://cdn99.one:80/984854/6b4zmQ/72438.ts?checkedby:iptvcat.com
 http://cdn99.one:80/984854/6b4zmQ/103449.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Woohoo HD
 http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/36063?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Woohoo HD
-http://livetv2021.site:8080/9897876765/6576567/69?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="All",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="All",Yeeaah!
@@ -4281,8 +4275,6 @@ http://168.205.87.198:8555/live/leila/123456/162.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1111/123456/162.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO
 http://168.205.87.198:8555/live/antony/1234/162.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO HD
-http://xcui.vitvabc.xyz:8880/flu-laliu/5vzRDKEZd3/31504?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO HD
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO16_XZHOqIwFbZyRBgIrQWeryX1n6y8tOVXZnIlIOAi/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Zoomoo FHD
