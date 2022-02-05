@@ -4,19 +4,21 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8?
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="All",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A & E
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92727?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",A & E
 http://mains.best:2086/htyrvtit/3650427/92727?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO BRASIL
 http://168.205.87.198:8555/live/leila/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO BRASIL
 http://168.205.87.198:8555/live/JOSEE/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO BRASIL
-http://168.205.87.198:8555/live/michele/123456/7.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO BRASIL
 http://168.205.87.198:8555/live/1221/123456/7.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO BRASIL
+http://168.205.87.198:8555/live/michele/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO BRASIL
 http://168.205.87.198:8555/live/antony/1234/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO CANAL
+http://168.205.87.198:8555/live/1111/123456/10.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO CANAL
 http://168.205.87.198:8555/live/antony/1234/10.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO CANAL
@@ -28,9 +30,9 @@ http://168.205.87.198:8555/live/1221/123456/10.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGRO CANAL
 http://168.205.87.198:8555/live/michele/123456/10.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGROMAIS
-http://168.205.87.198:8555/live/1221/123456/175.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGROMAIS
 http://168.205.87.198:8555/live/michele/123456/175.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGROMAIS
+http://168.205.87.198:8555/live/1221/123456/175.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGROMAIS
 http://168.205.87.198:8555/live/JOSEE/123456/175.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AGROMAIS
@@ -40,17 +42,19 @@ http://168.205.87.198:8555/live/antony/1234/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
 http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
-http://168.205.87.198:8555/live/leila/123456/148.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
 http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
-http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/leila/123456/148.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ALL SPORTS
+http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC
 http://mains.best:2086/htyrvtit/3650427/92726?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC
 http://187.94.148.10:8090/play/a02l/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMC
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92726?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMERICA LATINO
+http://168.205.87.198:8555/live/1111/123456/16.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMERICA LATINO
 http://168.205.87.198:8555/live/michele/123456/16.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMERICA LATINO
@@ -62,33 +66,33 @@ http://168.205.87.198:8555/live/1221/123456/16.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AMERICA LATINO
 http://168.205.87.198:8555/live/JOSEE/123456/16.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ANIMAL PLANET
-http://mains.best:2086/htyrvtit/3650427/92725?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ANIMAL PLANET
-http://168.205.87.198:8555/live/michele/123456/18.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ANIMAL PLANET
-http://168.205.87.198:8555/live/antony/1234/18.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ANIMAL PLANET
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92725?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ANIMAL PLANET
 http://168.205.87.198:8555/live/leila/123456/18.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ANIMAL PLANET
+http://mains.best:2086/htyrvtit/3650427/92725?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ANIMAL PLANET
+http://168.205.87.198:8555/live/antony/1234/18.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ANIMAL PLANET
+http://168.205.87.198:8555/live/michele/123456/18.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ANIMAL PLANET  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64811?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ARTE 1  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64812?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ARTE1
+http://168.205.87.198:8555/live/antony/1234/170.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ARTE1
 http://168.205.87.198:8555/live/michele/123456/170.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ARTE1
 http://168.205.87.198:8555/live/JOSEE/123456/170.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ARTE1
 http://168.205.87.198:8555/live/1221/123456/170.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ARTE1
-http://168.205.87.198:8555/live/antony/1234/170.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN
+http://187.94.148.10:8090/play/a016/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN
 http://mains.best:2086/htyrvtit/3650427/92724?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92724?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN
-http://187.94.148.10:8090/play/a016/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",AXN  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64813?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="All",Adesso TV
@@ -103,10 +107,12 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13643?checkedby:iptvcat.com
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Arte 1
 http://187.94.148.10:8090/play/a01a/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Arte1 HD BR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6147?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND
+http://168.205.87.198:8555/live/leila/123456/19.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND
 http://mains.best:2086/htyrvtit/3650427/92735?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND
+http://168.205.87.198:8555/live/1111/123456/19.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND
 http://168.205.87.198:8555/live/michele/123456/19.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND
@@ -117,22 +123,20 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92735?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/JOSEE/123456/19.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND
 http://168.205.87.198:8555/live/1221/123456/19.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND
-http://168.205.87.198:8555/live/1111/123456/19.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND
-http://168.205.87.198:8555/live/leila/123456/19.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND CAMPINAS  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64815?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND NEWS
+http://168.205.87.198:8555/live/1221/123456/174.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND NEWS
 http://mains.best:2086/htyrvtit/3650427/92723?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND NEWS
 http://168.205.87.198:8555/live/antony/1234/174.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND NEWS
+http://168.205.87.198:8555/live/michele/123456/174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND NEWS
 http://168.205.87.198:8555/live/JOSEE/123456/174.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND NEWS
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92723?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND NEWS
-http://168.205.87.198:8555/live/1221/123456/174.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SP
 http://mains.best:2086/htyrvtit/3650427/92722?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SP
@@ -140,15 +144,17 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92722?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SPORTS
 http://168.205.87.198:8555/live/JOSEE/123456/176.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SPORTS
-http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SPORTS
 http://168.205.87.198:8555/live/1221/123456/176.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SPORTS
+http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SPORTS
 http://168.205.87.198:8555/live/antony/1234/176.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BAND SPORTS  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64816?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BIS  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64817?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOA VONTADE TV
+http://168.205.87.198:8555/live/michele/123456/21.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOA VONTADE TV
 http://168.205.87.198:8555/live/leila/123456/21.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOA VONTADE TV
@@ -159,54 +165,44 @@ http://168.205.87.198:8555/live/antony/1234/21.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1111/123456/21.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOA VONTADE TV
 http://168.205.87.198:8555/live/1221/123456/21.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOA VONTADE TV
-http://168.205.87.198:8555/live/michele/123456/21.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG
-http://168.205.87.198:8555/live/leila/123456/22.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92720?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG
-http://168.205.87.198:8555/live/michele/123456/22.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG
 http://mains.best:2086/htyrvtit/3650427/92720?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG
 http://168.205.87.198:8555/live/antony/1234/22.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR A&E (P)
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114566?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR COMBATE (P)
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114612?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR COMEDY CENTRAL (P)
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114613?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR CONMEBOL TV 2 (P)
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114615?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR Canal Sony (P)
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114790?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG
+http://168.205.87.198:8555/live/leila/123456/22.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG
+http://168.205.87.198:8555/live/michele/123456/22.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BOOMERANG
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92720?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR DISCOVERY HOME & HEALTH (P)
 http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114631?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR PREMIERE 3  (P)
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114754?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR DISCOVERY TURBO  (P)
+http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114636?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR PREMIERE 6  (P)
 http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114757?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR SPORTV
-http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114792?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BR Shoptime SD
 http://dontuse.offshorerev.cc:80/SPIDER_FzMcrg/XYcKfpRNUG/114789?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRA
+http://168.205.87.198:8555/live/JOSEE/123456/24.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRA
 http://168.205.87.198:8555/live/leila/123456/24.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRA
 http://168.205.87.198:8555/live/1111/123456/24.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRA
-http://168.205.87.198:8555/live/michele/123456/24.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/24.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRA
-http://168.205.87.198:8555/live/JOSEE/123456/24.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1221/123456/24.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRA
+http://168.205.87.198:8555/live/michele/123456/24.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRSUPER TV
+http://168.205.87.198:8555/live/JOSEE/123456/147.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRSUPER TV
 http://168.205.87.198:8555/live/michele/123456/147.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRSUPER TV
 http://168.205.87.198:8555/live/leila/123456/147.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRSUPER TV
 http://168.205.87.198:8555/live/1221/123456/147.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",BRSUPER TV
-http://168.205.87.198:8555/live/JOSEE/123456/147.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Baby TV
 http://187.94.148.10:8090/play/a02e/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="All",Babyfirst
@@ -222,17 +218,17 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13638?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/bonstempos.png" group-title="All",Bons Tempos TV - WebTV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_101
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_101
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby&checkedby&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_101
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_101
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis&checkedby&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_47
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby&checkedby&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_47
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_47
 https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_47
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW&checkedby&checkedby&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_5
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Brasil IPTV_51
@@ -286,35 +282,37 @@ http://168.205.87.198:8555/live/michele/123456/167.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL DO BOI
 http://168.205.87.198:8555/live/1221/123456/167.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL RURAL
-http://168.205.87.198:8555/live/antony/1234/166.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/leila/123456/166.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL RURAL
 http://168.205.87.198:8555/live/JOSEE/123456/166.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL RURAL
+http://168.205.87.198:8555/live/antony/1234/166.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL RURAL
 http://168.205.87.198:8555/live/michele/123456/166.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL RURAL
 http://168.205.87.198:8555/live/1221/123456/166.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL RURAL
-http://168.205.87.198:8555/live/leila/123456/166.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL SAÚDE
-http://168.205.87.198:8555/live/leila/123456/165.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL SAÚDE
-http://168.205.87.198:8555/live/JOSEE/123456/165.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL SAÚDE
-http://168.205.87.198:8555/live/michele/123456/165.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL SAÚDE
 http://168.205.87.198:8555/live/antony/1234/165.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL SAÚDE
 http://168.205.87.198:8555/live/1221/123456/165.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL SAÚDE
+http://168.205.87.198:8555/live/JOSEE/123456/165.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL SAÚDE
+http://168.205.87.198:8555/live/leila/123456/165.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANAL SAÚDE
+http://168.205.87.198:8555/live/michele/123456/165.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANÇÃO NOVA
-http://168.205.87.198:8555/live/antony/1234/25.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANÇÃO NOVA
-http://168.205.87.198:8555/live/1111/123456/25.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANÇÃO NOVA
-http://168.205.87.198:8555/live/JOSEE/123456/25.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/leila/123456/25.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANÇÃO NOVA
 http://168.205.87.198:8555/live/1221/123456/25.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANÇÃO NOVA
-http://168.205.87.198:8555/live/leila/123456/25.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/25.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANÇÃO NOVA
+http://168.205.87.198:8555/live/1111/123456/25.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANÇÃO NOVA
+http://168.205.87.198:8555/live/antony/1234/25.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CANÇÃO NOVA
+http://168.205.87.198:8555/live/JOSEE/123456/25.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CARTOON NETWORK
 http://168.205.87.198:8555/live/michele/123456/26.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CARTOON NETWORK
@@ -342,55 +340,51 @@ http://168.205.87.198:8555/live/1221/123456/159.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CINE BRASIL
 http://168.205.87.198:8555/live/leila/123456/145.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CINE BRASIL
-http://168.205.87.198:8555/live/michele/123456/145.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CINE BRASIL
 http://168.205.87.198:8555/live/antony/1234/145.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CINEMAX  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64821?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
+http://168.205.87.198:8555/live/leila/123456/27.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
 http://168.205.87.198:8555/live/michele/123456/27.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
 http://168.205.87.198:8555/live/antony/1234/27.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
-http://168.205.87.198:8555/live/1111/123456/27.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
 http://168.205.87.198:8555/live/1221/123456/27.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
-http://168.205.87.198:8555/live/JOSEE/123456/27.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/27.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CLASSIC HITS
-http://168.205.87.198:8555/live/leila/123456/27.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/JOSEE/123456/27.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
 http://168.205.87.198:8555/live/1111/123456/28.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
+http://168.205.87.198:8555/live/michele/123456/28.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
+http://168.205.87.198:8555/live/1221/123456/28.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
 http://168.205.87.198:8555/live/antony/1234/28.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
 http://168.205.87.198:8555/live/leila/123456/28.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
+http://goplays.xyz:8000/Del2021/Del2021/219606?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
 http://168.205.87.198:8555/live/JOSEE/123456/28.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
-http://168.205.87.198:8555/live/michele/123456/28.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNN BRASIL
-http://168.205.87.198:8555/live/1221/123456/28.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
-http://168.205.87.198:8555/live/michele/123456/150.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
-http://168.205.87.198:8555/live/antony/1234/150.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="All",CNT
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
-http://168.205.87.198:8555/live/1221/123456/150.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
-http://168.205.87.198:8555/live/1111/123456/150.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
 http://168.205.87.198:8555/live/leila/123456/150.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
 http://168.205.87.198:8555/live/JOSEE/123456/150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
+http://168.205.87.198:8555/live/michele/123456/150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="All",CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
+http://168.205.87.198:8555/live/antony/1234/150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
+http://168.205.87.198:8555/live/1221/123456/150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CNT
+http://168.205.87.198:8555/live/1111/123456/150.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="All",COM Brasil
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",COMBATE
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92717?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",COMBATE
-http://mains.best:2086/htyrvtit/3650427/92717?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",COMEDY CENTRAL
 http://mains.best:2086/htyrvtit/3650427/92716?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",COMEDY CENTRAL
@@ -402,15 +396,21 @@ http://187.94.148.10:8090/play/a02n/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CONMEBOL TV 2
 http://187.94.148.10:8090/play/a01f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
+http://168.205.87.198:8555/live/1221/123456/30.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
+http://168.205.87.198:8555/live/antony/1234/30.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
 http://168.205.87.198:8555/live/michele/123456/30.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
 http://168.205.87.198:8555/live/JOSEE/123456/30.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
 http://168.205.87.198:8555/live/leila/123456/30.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULT
-http://168.205.87.198:8555/live/1221/123456/30.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULTURA
+http://168.205.87.198:8555/live/1111/123456/32.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULTURA
 http://168.205.87.198:8555/live/JOSEE/123456/32.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULTURA
+http://168.205.87.198:8555/live/michele/123456/32.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULTURA
 http://168.205.87.198:8555/live/1221/123456/32.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",CULTURA
@@ -434,19 +434,19 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16520?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DAZN 2 HD
 http://goplays.xyz:8000/Del2021/Del2021/219607?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/antony/1234/33.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL
 http://mains.best:2086/htyrvtit/3650427/92715?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL
-http://168.205.87.198:8555/live/leila/123456/33.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL
 http://mains.best:2086/htyrvtit/3650427/92734?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/leila/123456/33.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92734?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92715?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL
 http://168.205.87.198:8555/live/michele/123456/33.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL
-http://168.205.87.198:8555/live/antony/1234/33.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CHANNEL  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64826?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CIVILIZATION
@@ -456,9 +456,9 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92714?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY CIVILIZATION  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64827?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY H&H
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92713?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY H&H
 http://mains.best:2086/htyrvtit/3650427/92713?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY H&H
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92713?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY HOME & HEALTH
 http://mains.best:2086/htyrvtit/3650427/92712?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY HOME & HEALTH
@@ -478,8 +478,6 @@ http://168.205.87.198:8555/live/antony/1234/36.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY ID
 http://168.205.87.198:8555/live/leila/123456/36.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS
-http://mains.best:2086/htyrvtit/3650427/92711?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS
 http://168.205.87.198:8555/live/antony/1234/37.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS
 http://168.205.87.198:8555/live/michele/123456/37.ts?checkedby:iptvcat.com
@@ -489,16 +487,14 @@ http://168.205.87.198:8555/live/leila/123456/37.ts?checkedby:iptvcat.com
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92711?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY KIDS  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64829?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY SCIENCE  HD
-http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64830?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY THEATER
-http://mains.best:2086/htyrvtit/3650427/92710?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY THEATER
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92710?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY THEATER  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64831?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY TLC
 http://168.205.87.198:8555/live/antony/1234/40.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY TLC
+http://168.205.87.198:8555/live/michele/123456/40.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY TLC
 http://168.205.87.198:8555/live/leila/123456/40.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY TLC  HD
@@ -514,17 +510,15 @@ http://mains.best:2086/htyrvtit/3650427/92707?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISCOVERY WORLD
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92707?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL
-http://mains.best:2086/htyrvtit/3650427/92706?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL
-http://168.205.87.198:8555/live/michele/123456/45.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL
 http://168.205.87.198:8555/live/antony/1234/45.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL
-http://168.205.87.198:8555/live/leila/123456/45.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92706?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL
+http://168.205.87.198:8555/live/leila/123456/45.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY CHANNEL  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64835?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY JR
+http://168.205.87.198:8555/live/leila/123456/46.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY JR
 http://168.205.87.198:8555/live/michele/123456/46.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY JR
@@ -533,10 +527,10 @@ http://168.205.87.198:8555/live/antony/1234/46.ts?checkedby:iptvcat.com
 http://mains.best:2086/htyrvtit/3650427/92705?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY JR
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92705?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY JR
-http://168.205.87.198:8555/live/leila/123456/46.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY JR  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64836?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92733?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD
 http://168.205.87.198:8555/live/michele/123456/47.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD
@@ -545,8 +539,6 @@ http://168.205.87.198:8555/live/antony/1234/47.ts?checkedby:iptvcat.com
 http://mains.best:2086/htyrvtit/3650427/92733?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD
 http://168.205.87.198:8555/live/leila/123456/47.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",DISNEY XD
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92733?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel
 http://187.94.148.10:8090/play/a02i/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Channel HD BR
@@ -557,8 +549,6 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16516?checkedby:iptvcat.com
 http://187.94.148.10:8090/play/a00e/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Science HD VIP BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16512?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Turbo
-http://187.94.148.10:8090/play/a00m/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Discovery Turbo HD BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16510?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",E!  HD
@@ -567,8 +557,6 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64838?checkedby:iptvcat.com
 http://187.94.148.10:8090/play/a033/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",EPTV Ribeirªo Preto
 http://187.94.148.10:8090/play/a032/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",EPTV Sªo Carlos
-http://187.94.148.10:8090/play/a034/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN
 http://187.94.148.10:8090/play/a010/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN
@@ -592,8 +580,6 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64841?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16502?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN BRASIL
-http://mains.best:2086/htyrvtit/3650427/92701?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN BRASIL
 http://168.205.87.198:8555/live/michele/123456/50.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN BRASIL
 http://168.205.87.198:8555/live/antony/1234/50.ts?checkedby:iptvcat.com
@@ -601,8 +587,6 @@ http://168.205.87.198:8555/live/antony/1234/50.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/leila/123456/50.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN BRASIL
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92701?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN Brasil
-http://187.94.148.10:8090/play/a00f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN EXTRA
 http://168.205.87.198:8555/live/leila/123456/51.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN EXTRA
@@ -618,15 +602,15 @@ http://168.205.87.198:8555/live/antony/1234/60.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ESPN INT
 http://168.205.87.198:8555/live/leila/123456/60.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FASHION TV
+http://168.205.87.198:8555/live/antony/1234/61.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FASHION TV
 http://168.205.87.198:8555/live/1111/123456/61.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FASHION TV
 http://168.205.87.198:8555/live/leila/123456/61.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FASHION TV
-http://168.205.87.198:8555/live/1221/123456/61.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FASHION TV
 http://168.205.87.198:8555/live/JOSEE/123456/61.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FASHION TV
-http://168.205.87.198:8555/live/antony/1234/61.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/61.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="All",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV
@@ -634,27 +618,19 @@ http://168.205.87.198:8555/live/JOSEE/123456/62.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV
 http://168.205.87.198:8555/live/michele/123456/62.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV
-http://168.205.87.198:8555/live/leila/123456/62.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/62.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV
 http://168.205.87.198:8555/live/1221/123456/62.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV
-http://168.205.87.198:8555/live/antony/1234/62.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/leila/123456/62.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV
 http://168.205.87.198:8555/live/1111/123456/62.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FISH TV  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64842?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOOD NETWORK
-http://mains.best:2086/htyrvtit/3650427/92700?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOOD NETWORK
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92700?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92699?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX
-http://mains.best:2086/htyrvtit/3650427/92699?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX LIFE
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92698?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX LIFE
-http://mains.best:2086/htyrvtit/3650427/92698?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX SPORTS  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64847?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX SPORTS 1
@@ -666,9 +642,9 @@ http://mains.best:2086/htyrvtit/3650427/92695?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FOX SPORTS 2
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92695?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FUTURA
-http://168.205.87.198:8555/live/antony/1234/67.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FUTURA
 http://168.205.87.198:8555/live/leila/123456/67.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FUTURA
+http://168.205.87.198:8555/live/antony/1234/67.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FUTURA
 http://168.205.87.198:8555/live/michele/123456/67.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FUTURA
@@ -677,8 +653,6 @@ http://168.205.87.198:8555/live/1111/123456/67.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/JOSEE/123456/67.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FUTURA
 http://168.205.87.198:8555/live/1221/123456/67.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FUTURA  HD
-http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64809?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX
 http://187.94.148.10:8090/play/a00i/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",FX  HD
@@ -692,15 +666,17 @@ http://187.94.148.10:8090/play/a00x/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Fox Sports 2 HD BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16498?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
+http://168.205.87.198:8555/live/1221/123456/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
+http://168.205.87.198:8555/live/JOSEE/123456/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
+http://168.205.87.198:8555/live/1111/123456/69.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
 http://168.205.87.198:8555/live/antony/1234/69.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
 http://168.205.87.198:8555/live/leila/123456/69.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
 http://168.205.87.198:8555/live/michele/123456/69.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
-http://168.205.87.198:8555/live/1221/123456/69.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GAZETA
-http://168.205.87.198:8555/live/JOSEE/123456/69.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO BRASILIA
 http://mains.best:2086/htyrvtit/3650427/92692?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO BRASILIA
@@ -710,17 +686,17 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64807?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO EPTV SAO CARLOS  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64787?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS
-http://168.205.87.198:8555/live/1111/123456/70.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS
+http://168.205.87.198:8555/live/michele/123456/70.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS
 http://168.205.87.198:8555/live/1221/123456/70.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS
-http://168.205.87.198:8555/live/leila/123456/70.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/70.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS
 http://168.205.87.198:8555/live/JOSEE/123456/70.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO MINAS
-http://168.205.87.198:8555/live/antony/1234/70.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO NEWS
-http://mains.best:2086/htyrvtit/3650427/92691?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/leila/123456/70.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO NEWS
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92691?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOBO SP  HD
@@ -733,8 +709,6 @@ http://mains.best:2086/htyrvtit/3650427/92687?checkedby:iptvcat.com
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92687?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOOB
 http://mains.best:2086/htyrvtit/3650427/92686?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOOB
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92686?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GLOOB  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64784?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GNT
@@ -755,14 +729,10 @@ http://187.94.148.10:8090/play/a02y/index.m3u8?checkedby:iptvcat.com
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/679746?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Globo TV BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6125?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",GloboNews
-http://187.94.148.10:8090/play/a00z/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloob
 http://187.94.148.10:8090/play/a02f/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Gloob HD BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16485?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2
-http://mains.best:2086/htyrvtit/3650427/92684?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92684?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2  HD
@@ -770,17 +740,17 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64798?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",H2 HD BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16483?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92680?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO
 http://187.94.148.10:8090/play/a02c/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO
 http://mains.best:2086/htyrvtit/3650427/92680?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92680?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64797?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92682?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2
 http://mains.best:2086/htyrvtit/3650427/92682?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92682?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64783?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO 2 HD BR
@@ -793,8 +763,6 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92681?checkedby:iptvcat.com
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13622?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO PLUS
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92679?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO PLUS
-http://mains.best:2086/htyrvtit/3650427/92679?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO SIGNATURE
 http://mains.best:2086/htyrvtit/3650427/92678?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO SIGNATURE
@@ -806,25 +774,23 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6119?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HBO2
 http://187.94.148.10:8090/play/a00h/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HISTORY CHANNEL
-http://mains.best:2086/htyrvtit/3650427/92677?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HISTORY CHANNEL
 http://mains.best:2086/htyrvtit/3650427/92732?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HISTORY CHANNEL
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92677?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HISTORY CHANNEL
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92732?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HISTORY CHANNEL  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64796?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HITTS
-http://168.205.87.198:8555/live/JOSEE/123456/72.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/72.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HITTS
-http://168.205.87.198:8555/live/leila/123456/72.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1221/123456/72.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HITTS
+http://168.205.87.198:8555/live/JOSEE/123456/72.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HITTS
 http://168.205.87.198:8555/live/antony/1234/72.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HITTS
-http://168.205.87.198:8555/live/1111/123456/72.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/leila/123456/72.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",HITTS
-http://168.205.87.198:8555/live/1221/123456/72.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/72.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",History 2
 http://187.94.148.10:8090/play/a00k/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",History Channel HD BR
@@ -842,6 +808,8 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="All",IURD TV
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",JP NEWS
+http://168.205.87.198:8555/live/1221/123456/161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",JP NEWS
 http://168.205.87.198:8555/live/leila/123456/161.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",JP NEWS
 http://168.205.87.198:8555/live/1111/123456/161.ts?checkedby:iptvcat.com
@@ -851,18 +819,18 @@ http://168.205.87.198:8555/live/michele/123456/161.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/161.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",JP NEWS
 http://168.205.87.198:8555/live/JOSEE/123456/161.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",JP NEWS
-http://168.205.87.198:8555/live/1221/123456/161.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/320px-Jovem_Pan_logo_2018.svg.png" group-title="All",Jovem Pan News (1080p)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",KIDS
+http://168.205.87.198:8555/live/1111/123456/143.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",KIDS
 http://168.205.87.198:8555/live/michele/123456/143.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",KIDS
 http://168.205.87.198:8555/live/leila/123456/143.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",KIDS
-http://168.205.87.198:8555/live/JOSEE/123456/143.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",KIDS
 http://168.205.87.198:8555/live/antony/1234/143.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",KIDS
+http://168.205.87.198:8555/live/JOSEE/123456/143.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",KIDS
 http://168.205.87.198:8555/live/1221/123456/143.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="All",KURIAKOS CINE
@@ -872,9 +840,9 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="All",Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LIFETIME
-http://mains.best:2086/htyrvtit/3650427/92675?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LIFETIME
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92675?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LIFETIME
+http://mains.best:2086/htyrvtit/3650427/92675?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LOADING TV
 http://168.205.87.198:8555/live/antony/1234/142.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LOADING TV
@@ -885,6 +853,12 @@ http://168.205.87.198:8555/live/michele/123456/142.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1221/123456/142.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LOADING TV
 http://168.205.87.198:8555/live/leila/123456/142.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",LOADING TV
+http://168.205.87.198:8555/live/1111/123456/142.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MASTER TV
+http://168.205.87.198:8555/live/1221/123456/74.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MASTER TV
+http://168.205.87.198:8555/live/michele/123456/74.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MASTER TV
 http://168.205.87.198:8555/live/JOSEE/123456/74.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MASTER TV
@@ -893,12 +867,10 @@ http://168.205.87.198:8555/live/leila/123456/74.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1111/123456/74.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MASTER TV
 http://168.205.87.198:8555/live/antony/1234/74.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MASTER TV
-http://168.205.87.198:8555/live/1221/123456/74.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MAX PRIME  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64794?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
-http://168.205.87.198:8555/live/1111/123456/75.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/75.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
 http://168.205.87.198:8555/live/michele/123456/75.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
@@ -907,18 +879,12 @@ http://168.205.87.198:8555/live/JOSEE/123456/75.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/leila/123456/75.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
 http://168.205.87.198:8555/live/1221/123456/75.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGA
-http://168.205.87.198:8555/live/antony/1234/75.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGAPIX
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92671?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGAPIX
 http://mains.best:2086/htyrvtit/3650427/92671?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MEGAPIX  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64780?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TDEDNLK.png" group-title="All",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92670?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MTV
 http://mains.best:2086/htyrvtit/3650427/92670?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",MULTISHOW
@@ -964,8 +930,6 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64793?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NOVO TEMPO
 http://168.205.87.198:8555/live/antony/1234/149.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NOVO TEMPO
-http://168.205.87.198:8555/live/michele/123456/149.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NOVO TEMPO
 http://168.205.87.198:8555/live/JOSEE/123456/149.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",NOVO TEMPO
 http://168.205.87.198:8555/live/1111/123456/149.ts?checkedby:iptvcat.com
@@ -990,13 +954,13 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?check
 #EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="All",O Reino Infantil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF
-http://mains.best:2086/htyrvtit/3650427/92662?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92662?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF
 http://187.94.148.10:8090/play/a028/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF
+http://mains.best:2086/htyrvtit/3650427/92662?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",OFF  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64792?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ONDA OESTE
+http://168.205.87.198:8555/live/michele/123456/169.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ONDA OESTE
 http://168.205.87.198:8555/live/JOSEE/123456/169.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ONDA OESTE
@@ -1024,21 +988,21 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92661?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PARAMOUNT CHANNEL   HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64791?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",POLISHOP
+http://168.205.87.198:8555/live/1111/123456/153.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",POLISHOP
 http://168.205.87.198:8555/live/michele/123456/153.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",POLISHOP
 http://168.205.87.198:8555/live/leila/123456/153.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",POLISHOP
-http://168.205.87.198:8555/live/JOSEE/123456/153.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",POLISHOP
 http://168.205.87.198:8555/live/antony/1234/153.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",POLISHOP
+http://168.205.87.198:8555/live/JOSEE/123456/153.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",POLISHOP
 http://168.205.87.198:8555/live/1221/123456/153.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PORTAL
 http://168.205.87.198:8555/live/JOSEE/123456/82.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PORTAL
 http://168.205.87.198:8555/live/antony/1234/82.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PORTAL
-http://168.205.87.198:8555/live/michele/123456/82.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PORTAL
 http://168.205.87.198:8555/live/1221/123456/82.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PORTAL
@@ -1047,8 +1011,6 @@ http://168.205.87.198:8555/live/leila/123456/82.ts?checkedby:iptvcat.com
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64776?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 1 HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64790?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 2
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92660?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 2
 http://mains.best:2086/htyrvtit/3650427/92660?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 2 HD
@@ -1064,51 +1026,45 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92658?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 4 HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64788?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 5
-http://mains.best:2086/htyrvtit/3650427/92657?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE 5
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92657?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE CLUBES
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92656?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE CLUBES
 http://mains.best:2086/htyrvtit/3650427/92656?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE CLUBES
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92656?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PREMIERE CLUBES HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64774?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
-http://168.205.87.198:8555/live/michele/123456/83.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
-http://168.205.87.198:8555/live/JOSEE/123456/83.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
 http://168.205.87.198:8555/live/1221/123456/83.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
 http://168.205.87.198:8555/live/antony/1234/83.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
 http://168.205.87.198:8555/live/leila/123456/83.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
+http://168.205.87.198:8555/live/michele/123456/83.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",PRIME BOX
+http://168.205.87.198:8555/live/JOSEE/123456/83.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Paramount Network
 http://187.94.148.10:8090/play/a027/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="All",Perú Channel (720p) [Not 24/7]
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 2
-http://187.94.148.10:8090/play/a00t/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="All",Pluto TV Filmes Nacionais
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere 5
 http://187.94.148.10:8090/play/a01e/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere Clubes
-http://187.94.148.10:8090/play/a00v/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Premiere Clubes HD BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13610?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Prime Box Brazil
 http://187.94.148.10:8090/play/a014/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
+http://168.205.87.198:8555/live/1221/123456/84.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
 http://168.205.87.198:8555/live/michele/123456/84.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
 http://168.205.87.198:8555/live/antony/1234/84.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
-http://168.205.87.198:8555/live/1111/123456/84.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
 http://168.205.87.198:8555/live/JOSEE/123456/84.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
 http://168.205.87.198:8555/live/leila/123456/84.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RATIMBUM
-http://168.205.87.198:8555/live/1221/123456/84.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92655?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD
@@ -1116,25 +1072,27 @@ http://mains.best:2086/htyrvtit/3650427/92655?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64773?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
-http://168.205.87.198:8555/live/michele/123456/96.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
 http://168.205.87.198:8555/live/1221/123456/96.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
-http://168.205.87.198:8555/live/antony/1234/96.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/96.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
 http://168.205.87.198:8555/live/leila/123456/96.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
+http://168.205.87.198:8555/live/antony/1234/96.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
+http://168.205.87.198:8555/live/1111/123456/96.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD MINAS
 http://168.205.87.198:8555/live/JOSEE/123456/96.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
-http://168.205.87.198:8555/live/JOSEE/123456/97.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/97.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
+http://168.205.87.198:8555/live/1221/123456/97.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
 http://168.205.87.198:8555/live/leila/123456/97.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
 http://168.205.87.198:8555/live/michele/123456/97.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
 http://168.205.87.198:8555/live/antony/1234/97.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD NEWS
-http://168.205.87.198:8555/live/1221/123456/97.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD SP
 http://mains.best:2086/htyrvtit/3650427/92654?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RECORD SP
@@ -1144,27 +1102,25 @@ http://187.94.148.10:8090/play/a01b/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
 http://168.205.87.198:8555/live/michele/123456/151.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
-http://168.205.87.198:8555/live/JOSEE/123456/151.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
 http://168.205.87.198:8555/live/antony/1234/151.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
+http://168.205.87.198:8555/live/JOSEE/123456/151.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
 http://168.205.87.198:8555/live/leila/123456/151.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
-http://168.205.87.198:8555/live/1221/123456/151.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
 http://168.205.87.198:8555/live/1111/123456/151.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE FAMILIA
+http://168.205.87.198:8555/live/1221/123456/151.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
+http://168.205.87.198:8555/live/antony/1234/98.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
+http://168.205.87.198:8555/live/leila/123456/98.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
 http://168.205.87.198:8555/live/michele/123456/98.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
-http://168.205.87.198:8555/live/JOSEE/123456/98.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
 http://168.205.87.198:8555/live/1111/123456/98.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
 http://168.205.87.198:8555/live/1221/123456/98.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
-http://168.205.87.198:8555/live/leila/123456/98.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE GENESIS
-http://168.205.87.198:8555/live/antony/1234/98.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE METROPOLE
 http://168.205.87.198:8555/live/antony/1234/99.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE METROPOLE
@@ -1174,9 +1130,11 @@ http://168.205.87.198:8555/live/michele/123456/99.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE METROPOLE
 http://168.205.87.198:8555/live/JOSEE/123456/99.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE METROPOLE
-http://168.205.87.198:8555/live/1111/123456/99.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE METROPOLE
 http://168.205.87.198:8555/live/1221/123456/99.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE METROPOLE
+http://168.205.87.198:8555/live/1111/123456/99.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE MINAS
+http://168.205.87.198:8555/live/1221/123456/101.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE MINAS
 http://168.205.87.198:8555/live/michele/123456/101.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE MINAS
@@ -1184,27 +1142,25 @@ http://168.205.87.198:8555/live/leila/123456/101.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE MINAS
 http://168.205.87.198:8555/live/1111/123456/101.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE MINAS
-http://168.205.87.198:8555/live/antony/1234/101.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE MINAS
 http://168.205.87.198:8555/live/JOSEE/123456/101.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE MINAS
-http://168.205.87.198:8555/live/1221/123456/101.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE NEW
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92653?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/101.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE NEW
 http://mains.best:2086/htyrvtit/3650427/92653?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE NEW
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92653?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE SUPER
 http://168.205.87.198:8555/live/leila/123456/163.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE SUPER
 http://168.205.87.198:8555/live/antony/1234/163.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE SUPER
-http://168.205.87.198:8555/live/1221/123456/163.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/163.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE SUPER
-http://168.205.87.198:8555/live/JOSEE/123456/163.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1221/123456/163.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV
+http://168.205.87.198:8555/live/leila/123456/102.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV
 http://168.205.87.198:8555/live/1111/123456/102.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92652?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV
 http://168.205.87.198:8555/live/michele/123456/102.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV
@@ -1215,26 +1171,28 @@ http://168.205.87.198:8555/live/1221/123456/102.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/JOSEE/123456/102.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV
 http://168.205.87.198:8555/live/antony/1234/102.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV
-http://168.205.87.198:8555/live/leila/123456/102.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE TV  HD
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64767?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE VIDA
+http://168.205.87.198:8555/live/antony/1234/103.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE VIDA
 http://168.205.87.198:8555/live/JOSEE/123456/103.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE VIDA
 http://168.205.87.198:8555/live/leila/123456/103.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE VIDA
-http://168.205.87.198:8555/live/1221/123456/103.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE VIDA
 http://168.205.87.198:8555/live/michele/123456/103.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",REDE VIDA
-http://168.205.87.198:8555/live/antony/1234/103.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1221/123456/103.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RIT
 http://168.205.87.198:8555/live/leila/123456/168.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RIT
 http://168.205.87.198:8555/live/antony/1234/168.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RIT
-http://168.205.87.198:8555/live/JOSEE/123456/168.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/168.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RIT
 http://168.205.87.198:8555/live/1221/123456/168.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RIT
+http://168.205.87.198:8555/live/JOSEE/123456/168.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RPC TV Curitiba
 http://187.94.148.10:8090/play/a031/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",RSC
@@ -1269,8 +1227,6 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6110?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.livetvnews.com.br/wp-content/uploads/2019/03/Logo-RedeTV.png" group-title="All",Rede TV! SP (720p) [Not 24/7]
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/utv.png" group-title="All",Rede UTV
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Rede Vida
 http://187.94.148.10:8090/play/a017/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="All",Retrô TV
@@ -1278,13 +1234,11 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8?checkedby:i
 #EXTINF:0 tvg-country="BR" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="All",Rádio Jornal
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SABOR E ARTE
-http://168.205.87.198:8555/live/michele/123456/172.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/172.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SABOR E ARTE
 http://168.205.87.198:8555/live/JOSEE/123456/172.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SABOR E ARTE
 http://168.205.87.198:8555/live/1221/123456/172.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SABOR E ARTE
-http://168.205.87.198:8555/live/antony/1234/172.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT
 http://187.94.148.10:8090/play/a00w/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="All",SBT
@@ -1292,43 +1246,43 @@ https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="All",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
-http://168.205.87.198:8555/live/leila/123456/104.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/104.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
 http://168.205.87.198:8555/live/1221/123456/104.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
+http://168.205.87.198:8555/live/leila/123456/104.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
 http://168.205.87.198:8555/live/JOSEE/123456/104.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
-http://168.205.87.198:8555/live/michele/123456/104.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/104.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SBT ALTEROSA
-http://168.205.87.198:8555/live/1111/123456/104.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/104.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/IUDRW8l.png" group-title="All",SBT TV Jornal Caruaru (720p) [Not 24/7]
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/IUDRW8l.png" group-title="All",SBT TV Jornal Recife (720p) [Not 24/7]
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
+http://168.205.87.198:8555/live/michele/123456/105.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
 http://168.205.87.198:8555/live/JOSEE/123456/105.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
-http://168.205.87.198:8555/live/antony/1234/105.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
-http://168.205.87.198:8555/live/1111/123456/105.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
 http://168.205.87.198:8555/live/leila/123456/105.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
 http://168.205.87.198:8555/live/1221/123456/105.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SCH
-http://168.205.87.198:8555/live/michele/123456/105.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
 http://168.205.87.198:8555/live/leila/123456/106.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
-http://168.205.87.198:8555/live/1111/123456/106.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/106.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
 http://168.205.87.198:8555/live/antony/1234/106.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
-http://168.205.87.198:8555/live/michele/123456/106.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
 http://168.205.87.198:8555/live/1221/123456/106.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SECULO 21
 http://168.205.87.198:8555/live/JOSEE/123456/106.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SESC TV
+http://168.205.87.198:8555/live/michele/123456/107.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SESC TV
+http://168.205.87.198:8555/live/1111/123456/107.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SESC TV
 http://168.205.87.198:8555/live/JOSEE/123456/107.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SESC TV
@@ -1337,8 +1291,6 @@ http://168.205.87.198:8555/live/antony/1234/107.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/leila/123456/107.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SESC TV
 http://168.205.87.198:8555/live/1221/123456/107.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SESC TV
-http://168.205.87.198:8555/live/michele/123456/107.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SHOPTIME
 http://168.205.87.198:8555/live/leila/123456/164.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SHOPTIME
@@ -1346,15 +1298,9 @@ http://168.205.87.198:8555/live/antony/1234/164.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SHOPTIME
 http://168.205.87.198:8555/live/1221/123456/164.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SMITHSONIAN
-http://168.205.87.198:8555/live/antony/1234/173.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SMITHSONIAN
 http://168.205.87.198:8555/live/JOSEE/123456/173.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SMITHSONIAN
 http://168.205.87.198:8555/live/1221/123456/173.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SMITHSONIAN
-http://168.205.87.198:8555/live/michele/123456/173.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SONY
-http://mains.best:2086/htyrvtit/3650427/92649?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SONY
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92649?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SONY  HD
@@ -1365,8 +1311,6 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92648?checkedby:iptvcat.com
 http://mains.best:2086/htyrvtit/3650427/92648?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92645?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV
-http://mains.best:2086/htyrvtit/3650427/92645?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV 1
 http://mains.best:2086/htyrvtit/3650427/92731?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV 1
@@ -1375,8 +1319,6 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92731?checkedby:iptvcat.com
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64762?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV 1 HD
 http://goplays.xyz:8000/Del2021/Del2021/136483?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV 2
-http://mains.best:2086/htyrvtit/3650427/92647?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV 2
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92647?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SPORTV 2 HD
@@ -1389,16 +1331,12 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92646?checkedby:iptvcat.com
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64760?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STAR CHANNEL
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64844?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STAR LIFE  HD
-http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64845?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STUDIO UNIVERSAL
 http://mains.best:2086/htyrvtit/3650427/92644?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STUDIO UNIVERSAL
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92644?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",STUDIO UNIVERSAL  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64759?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SYFY
-http://mains.best:2086/htyrvtit/3650427/92643?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SYFY
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92643?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SYFY  HD
@@ -1413,8 +1351,8 @@ http://187.94.148.10:8090/play/a00y/index.m3u8?checkedby:iptvcat.com
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13604?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SporTV HD BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/13602?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SyFy BR
-http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/16457?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SÉRIES CLÁSSICAS
+http://168.205.87.198:8555/live/1111/123456/160.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/JOSEE/123456/160.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",SÉRIES CLÁSSICAS
@@ -1433,8 +1371,6 @@ http://168.205.87.198:8555/live/michele/123456/112.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/112.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM
 http://168.205.87.198:8555/live/leila/123456/112.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM  HD
-http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64756?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TCM BR
 http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/6105?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE ACTION  HD
@@ -1445,8 +1381,6 @@ http://mains.best:2086/htyrvtit/3650427/92641?checkedby:iptvcat.com
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92641?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE CULT  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64754?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE FUN
-http://mains.best:2086/htyrvtit/3650427/92640?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE FUN
 http://mains.best:2086/htyrvtit/3650427/92729?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE FUN
@@ -1462,17 +1396,19 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92639?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE PREMIUM
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92638?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE PREMIUM
-http://mains.best:2086/htyrvtit/3650427/92728?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE PREMIUM
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92728?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE PREMIUM
 http://mains.best:2086/htyrvtit/3650427/92638?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE TOUCH
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92637?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE PREMIUM  HD
+http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64752?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE TOUCH
 http://mains.best:2086/htyrvtit/3650427/92637?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE TOUCH
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92637?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TELECINE TOUCH  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64751?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TERRA VIVA
+http://168.205.87.198:8555/live/michele/123456/171.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TERRA VIVA
 http://168.205.87.198:8555/live/JOSEE/123456/171.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TERRA VIVA
@@ -1488,9 +1424,9 @@ http://168.205.87.198:8555/live/leila/123456/116.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92635?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT
-http://168.205.87.198:8555/live/antony/1234/116.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/116.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT
-http://187.94.148.10:8090/play/a011/index.m3u8?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/116.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64749?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT HD BR
@@ -1508,6 +1444,8 @@ http://168.205.87.198:8555/live/leila/123456/117.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TNT SÉRIES
 http://168.205.87.198:8555/live/michele/123456/117.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TRAVEL
+http://168.205.87.198:8555/live/michele/123456/124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TRAVEL
 http://168.205.87.198:8555/live/antony/1234/124.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TRAVEL
 http://168.205.87.198:8555/live/1111/123456/124.ts?checkedby:iptvcat.com
@@ -1517,36 +1455,36 @@ http://168.205.87.198:8555/live/JOSEE/123456/124.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1221/123456/124.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TRAVEL
 http://168.205.87.198:8555/live/leila/123456/124.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TRAVEL
-http://168.205.87.198:8555/live/michele/123456/124.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV APARECIDA
+http://168.205.87.198:8555/live/antony/1234/131.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV APARECIDA
 http://168.205.87.198:8555/live/JOSEE/123456/131.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV APARECIDA
-http://168.205.87.198:8555/live/michele/123456/131.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV APARECIDA
 http://168.205.87.198:8555/live/1221/123456/131.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV APARECIDA
+http://168.205.87.198:8555/live/michele/123456/131.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV APARECIDA
 http://168.205.87.198:8555/live/1111/123456/131.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV APARECIDA
 http://168.205.87.198:8555/live/leila/123456/131.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV APARECIDA
-http://168.205.87.198:8555/live/antony/1234/131.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/tvatividade.png" group-title="All",TV Atividade - WebTV
 https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="All",TV BNO
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
+http://168.205.87.198:8555/live/1221/123456/134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
+http://168.205.87.198:8555/live/michele/123456/134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
+http://168.205.87.198:8555/live/1111/123456/134.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
 http://168.205.87.198:8555/live/JOSEE/123456/134.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
 http://168.205.87.198:8555/live/antony/1234/134.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
 http://168.205.87.198:8555/live/leila/123456/134.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
-http://168.205.87.198:8555/live/1221/123456/134.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
-http://168.205.87.198:8555/live/1111/123456/134.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL
-http://168.205.87.198:8555/live/michele/123456/134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL 2
+http://168.205.87.198:8555/live/antony/1234/135.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL 2
 http://168.205.87.198:8555/live/leila/123456/135.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL 2
@@ -1554,27 +1492,25 @@ http://168.205.87.198:8555/live/JOSEE/123456/135.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL 2
 http://168.205.87.198:8555/live/1111/123456/135.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL 2
-http://168.205.87.198:8555/live/michele/123456/135.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL 2
 http://168.205.87.198:8555/live/1221/123456/135.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV BRASIL 2
-http://168.205.87.198:8555/live/antony/1234/135.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/135.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR;US" tvg-logo="" group-title="All",TV Capital Lucelia
 http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="All",TV Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/samhost.tvcarioca.png" group-title="All",TV Carioca
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Centro AmØrica CuiabÆ
-http://187.94.148.10:8090/play/a030/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Cidade Canal 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/jaaGxnd.png" group-title="All",TV Cidade de Petrópolis (1080p) [Not 24/7]
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="All",TV Cinec
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Cultura
-http://187.94.148.10:8090/play/a01g/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV CÂMARA
+http://168.205.87.198:8555/live/leila/123456/136.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV CÂMARA
+http://168.205.87.198:8555/live/michele/123456/136.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV CÂMARA
 http://168.205.87.198:8555/live/antony/1234/136.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV CÂMARA
@@ -1583,8 +1519,6 @@ http://168.205.87.198:8555/live/JOSEE/123456/136.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1111/123456/136.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV CÂMARA
 http://168.205.87.198:8555/live/1221/123456/136.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV CÂMARA
-http://168.205.87.198:8555/live/leila/123456/136.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="All",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="All",TV Câmara 2
@@ -1598,17 +1532,17 @@ http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?c
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/uBntXf1.png" group-title="All",TV Diário do Sertão,TVDS
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
+http://168.205.87.198:8555/live/leila/123456/137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
+http://168.205.87.198:8555/live/1221/123456/137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
 http://168.205.87.198:8555/live/michele/123456/137.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
+http://168.205.87.198:8555/live/antony/1234/137.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
 http://168.205.87.198:8555/live/JOSEE/123456/137.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
 http://168.205.87.198:8555/live/1111/123456/137.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
-http://168.205.87.198:8555/live/1221/123456/137.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
-http://168.205.87.198:8555/live/leila/123456/137.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV ESCOLA
-http://168.205.87.198:8555/live/antony/1234/137.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="All",TV Educativa de Porto Alegre
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/TVG.png" group-title="All",TV Galícia
@@ -1624,15 +1558,13 @@ http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8?checked
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV JUSTIÇA
 http://168.205.87.198:8555/live/leila/123456/138.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV JUSTIÇA
-http://168.205.87.198:8555/live/antony/1234/138.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV JUSTIÇA
 http://168.205.87.198:8555/live/michele/123456/138.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV JUSTIÇA
-http://168.205.87.198:8555/live/1111/123456/138.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV JUSTIÇA
-http://168.205.87.198:8555/live/JOSEE/123456/138.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/antony/1234/138.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV JUSTIÇA
 http://168.205.87.198:8555/live/1221/123456/138.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV JUSTIÇA
+http://168.205.87.198:8555/live/JOSEE/123456/138.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/japitv.png" group-title="All",TV Japi
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png" group-title="All",TV Mackenzie
@@ -1650,7 +1582,7 @@ http://168.205.87.198:8555/live/antony/1234/139.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV SENADO
 http://168.205.87.198:8555/live/leila/123456/139.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV SENADO
-http://168.205.87.198:8555/live/michele/123456/139.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/139.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV SENADO
 http://168.205.87.198:8555/live/1221/123456/139.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV SENADO
@@ -1658,17 +1590,17 @@ http://168.205.87.198:8555/live/JOSEE/123456/139.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc.png" group-title="All",TV Santa Cruz (720p) [Not 24/7]
 https://rtmp.info/tvsantacruz/envivo/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
+http://168.205.87.198:8555/live/michele/123456/152.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
+http://168.205.87.198:8555/live/JOSEE/123456/152.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
 http://168.205.87.198:8555/live/antony/1234/152.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
 http://168.205.87.198:8555/live/leila/123456/152.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
+http://168.205.87.198:8555/live/1111/123456/152.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
 http://168.205.87.198:8555/live/1221/123456/152.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
-http://168.205.87.198:8555/live/JOSEE/123456/152.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV TURFE
-http://168.205.87.198:8555/live/michele/123456/152.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",TV Tem Sªo JosØ do Rio Preto
-http://187.94.148.10:8090/play/a02z/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://tv.thathi.com.br/wp-content/uploads/2021/02/tv-thathi-150x150.png" group-title="All",TV Thathi (720p) [Not 24/7]
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvufg.org.br/wp-content/uploads/2018/10/logo_tv_ufg_azul_16bit.png" group-title="All",TV UFG
@@ -1705,30 +1637,30 @@ http://187.94.148.10:8090/play/a02d/index.m3u8?checkedby:iptvcat.com
 http://mains.best:2086/htyrvtit/3650427/92633?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",UNIVERSAL CHANNEL
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92633?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Universal TV
-http://187.94.148.10:8090/play/a01c/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VIVA  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64750?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VRT CHANNEL
-http://168.205.87.198:8555/live/michele/123456/146.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/146.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VRT CHANNEL
 http://168.205.87.198:8555/live/leila/123456/146.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VRT CHANNEL
-http://168.205.87.198:8555/live/JOSEE/123456/146.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/michele/123456/146.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VRT CHANNEL
 http://168.205.87.198:8555/live/antony/1234/146.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VRT CHANNEL
-http://168.205.87.198:8555/live/1221/123456/146.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/JOSEE/123456/146.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",VRT CHANNEL
-http://168.205.87.198:8555/live/1111/123456/146.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1221/123456/146.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/vintagetv.png" group-title="All",Vintage TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WARNER CHANNEL  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64745?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
-http://168.205.87.198:8555/live/JOSEE/123456/141.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/leila/123456/141.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
 http://mains.best:2086/htyrvtit/3650427/92630?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
+http://168.205.87.198:8555/live/JOSEE/123456/141.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
 http://168.205.87.198:8555/live/michele/123456/141.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
@@ -1739,8 +1671,6 @@ http://168.205.87.198:8555/live/1111/123456/141.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/antony/1234/141.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
 http://168.205.87.198:8555/live/1221/123456/141.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO
-http://168.205.87.198:8555/live/leila/123456/141.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",WOOHOO  HD
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/64744?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",Warner BR
@@ -1752,13 +1682,13 @@ https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="All",Yeeaah!
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO
-http://168.205.87.198:8555/live/antony/1234/162.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO
-http://168.205.87.198:8555/live/michele/123456/162.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO
-http://168.205.87.198:8555/live/JOSEE/123456/162.ts?checkedby:iptvcat.com
+http://168.205.87.198:8555/live/1111/123456/162.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO
 http://168.205.87.198:8555/live/1221/123456/162.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO
+http://168.205.87.198:8555/live/antony/1234/162.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO
+http://168.205.87.198:8555/live/JOSEE/123456/162.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZOOMOO
 http://168.205.87.198:8555/live/leila/123456/162.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="All",ZooMoo
